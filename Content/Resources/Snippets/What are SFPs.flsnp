@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="387" MadCap:lastWidth="624">
+    <head>
+    </head>
+    <body>
+        <p>Integris Ports use Small Form Factor Pluggable (SFP) devices to provide signal conversion of the opticalsignal on the cable to the electrical signals used inside the Integris system. SFP's are available for many types of physical connection, such as single mode or multimode optical cabling, and the specification of SFP's is controlled by a standard which ensures compatability between SFP's from different vendors.</p>
+        <p>&#160;</p>
+        <p>Part of this standard ensures that all vendors provide machine readable information regarding the SFP's capabilities. This information is called the Vital Product Data (VPD) and includes the SFP manufacturer, supported link rates, optical wavelength, etc.</p>
+        <p>&#160;</p>
+        <p>The Integris System can read this information and present it to the user so they can verify that the SFP is suitable for the application in which it is being used.</p>
+    </body>
+</html>

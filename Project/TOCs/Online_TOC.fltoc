@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="Quick Start">
+    <TocEntry
+      Title="Versions &amp; Notices" />
+    <TocEntry
+      Title="Starting the Investigator Viewer" />
+    <TocEntry
+      Title="Opening a Trace File" />
+    <TocEntry
+      Title="Frame View, Word View and  Raw View" />
+    <TocEntry
+      Title="Saving a Trace File" />
+  </TocEntry>
+  <TocEntry
+    Title="Configuring  Viewer&#xA;&#x9;&#x9; Features">
+    <TocEntry
+      Title="The Frame, Word and  Raw Views" />
+    <TocEntry
+      Title="Frame View" />
+    <TocEntry
+      Title="Navigating the Viewer Window" />
+    <TocEntry
+      Title="Changing Colors in the Viewer Window" />
+    <TocEntry
+      Title="Manually Changing Color Settings" />
+    <TocEntry
+      Title="Changing the Font" />
+    <TocEntry
+      Title="Adding or Removing the Expansion Windows" />
+    <TocEntry
+      Title="Timestamps" />
+    <TocEntry
+      Title="The Info Column" />
+    <TocEntry
+      Title="Rearranging Column Headings"></TocEntry>
+    <TocEntry
+      Title="Working with a Selection from a Trace" />
+    <TocEntry
+      Title="Saving a Selection as a New Trace file"></TocEntry>
+    <TocEntry
+      Title="Printing or Saving to a Text File"></TocEntry>
+    <TocEntry
+      Title="Printing or Saving to a Text File" />
+    <TocEntry
+      Title="Trace File Structure" />
+    <TocEntry
+      Title="Measuring Time Differences (Delta Time)" />
+    <TocEntry
+      Title="Creating a New View" />
+    <TocEntry
+      Title="Setting Post Capture Filters" />
+    <TocEntry
+      Title="Searching the Trace" />
+    <TocEntry
+      Title="Adding and Deleting Bookmark" />
+    <TocEntry
+      Title="Word View &amp; Raw View">
+      <TocEntry
+        Title="Word View"></TocEntry>
+      <TocEntry
+        Title="Raw View" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Practical Exercises">
+    <TocEntry
+      Title="Exercise 1: Working with a trace" />
+    <TocEntry
+      Title="Exercise 2: Filtering and Measuring Response Time" />
+    <TocEntry
+      Title="Exercise 3: Sending a Trace to a Colleague" />
+  </TocEntry>
+</CatapultToc>

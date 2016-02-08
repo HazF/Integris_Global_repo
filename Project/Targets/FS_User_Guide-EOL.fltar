@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="User Guide"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/FS_User_Guide (EOL).fltoc"
+  ConditionTagExpression="include[General.FS_PDF] exclude[General.Online or General.RL_PDF] "
+  PatchHeadingLevels="true"
+  InjectEmptyPages="true"
+  conditions="General.FS_PDF">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <DocumentProperties
+    Title="User Guide"
+    Author="Haz Fairweather"
+    Subject="Integris User Guide" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="50"
+    PageLayout="OneColumn"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    Tagged="false" />
+</CatapultTarget>

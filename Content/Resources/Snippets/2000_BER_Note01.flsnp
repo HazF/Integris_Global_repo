@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <b>Note</b>: Sufficient bits must pass on the link before it is possible to achieve a valid Bit Error Rate (BER). For this reason the BER will initially show a high value until sufficient traffic has passed to allow a reading that is inside specification.</body>
+</html>

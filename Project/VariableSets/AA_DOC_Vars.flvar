@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">Absolute Analysis</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">+1 805-376-6048</Variable>
+  <Variable
+    Name="WebAddress"
+    Comment=""
+    Definition="Some text">www.AbsoluteAnalysis.com</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    Definition="Some text">Safety &amp; Compliance</Variable>
+  <Variable
+    Name="DocVersion#"
+    Comment="Version number of this document"
+    Definition="Some text">0.2</Variable>
+  <Variable
+    Name="CurrentYear"
+    Comment=""
+    Definition="Some text">2015</Variable>
+  <Variable
+    Name="SWVersion#"
+    Definition="Some text"></Variable>
+  <Variable
+    Name="WebAddressSupport"
+    Comment="">www.AbsoluteAnalysis.com/Contact/</Variable>
+  <Variable
+    Name="DocVersionPrevious#"
+    Comment="Previous version of this document">0.1</Variable>
+  <Variable
+    Name="DocVersionUpdateReason"
+    Comment="Reason for update">Corrections following initial review.</Variable>
+  <Variable
+    Name="PDF_Title"
+    Comment="">User Guide</Variable>
+  <Variable
+    Name="DocVersionChangeDate"
+    Comment="">October 6th 2015</Variable>
+  <Variable
+    Name="DCN#"
+    Comment="">20010</Variable>
+  <Variable
+    Name="DocVersion#Full"
+    Comment="Long version number of this document">00.02</Variable>
+  <Variable
+    Name="ProductNameLong"
+    Comment="">Safety &amp; Compliance</Variable>
+  <Variable
+    Name="HelpDCN#"
+    Comment="">200nn</Variable>
+  <Variable
+    Name="HelpVersion#Long"
+    Comment="">01.00</Variable>
+  <Variable
+    Name="HelpVersion#"
+    Comment="">1.0</Variable>
+  <Variable
+    Name="HelpVersion#Last"
+    Comment="">0.9</Variable>
+  <Variable
+    Name="Product Group"
+    Comment="">Integris</Variable>
+  <Variable
+    Name="_FigNum Counter"
+    Comment="Counter for Figure numbers">CH</Variable>
+  <Variable
+    Name="_H2 Counter"
+    Comment="Counter for h2 subheadings within chapters">CA</Variable>
+</CatapultVariableSet>

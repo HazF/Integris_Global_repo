@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAutoIndexSet>
+  <AutoIndex
+    Phrase="This is my auto-indexed phrase"
+    IndexTerm="Linked To This:And This" />
+  <AutoIndex
+    Phrase="Frame View"
+    IndexTerm="Trace Viewer:Frame View"></AutoIndex>
+  <AutoIndex
+    Phrase="Hex View"
+    IndexTerm="Trace Viewer:Hex View"></AutoIndex>
+  <AutoIndex
+    Phrase="Versions"
+    IndexTerm="Document Version"></AutoIndex>
+  <AutoIndex
+    Phrase="Technical Support"
+    IndexTerm="Technical Support"></AutoIndex>
+  <AutoIndex
+    Phrase="technical support"
+    IndexTerm="Technical Support"></AutoIndex>
+  <AutoIndex
+    Phrase="Warranty"
+    IndexTerm="Warranty"></AutoIndex>
+  <AutoIndex
+    Phrase="Calibration"
+    IndexTerm="Calibration"></AutoIndex>
+  <AutoIndex
+    Phrase="Stop and View"
+    IndexTerm="Stop &amp; View"></AutoIndex>
+  <AutoIndex
+    Phrase="Trigger"
+    IndexTerm="Trigger"></AutoIndex>
+  <AutoIndex
+    Phrase="trigger"
+    IndexTerm="Trigger"></AutoIndex>
+  <AutoIndex
+    Phrase="Triggers"
+    IndexTerm="Trigger"></AutoIndex>
+  <AutoIndex
+    Phrase="triggers"
+    IndexTerm="Trigger"></AutoIndex>
+  <AutoIndex
+    Phrase="Open Trace"
+    IndexTerm="Open:Trace"></AutoIndex>
+  <AutoIndex
+    Phrase="open trace"
+    IndexTerm="Open:Trace"></AutoIndex>
+  <AutoIndex
+    Phrase="Protocol tree"
+    IndexTerm="Protocol Tree"></AutoIndex>
+  <AutoIndex
+    Phrase="Hex Panel"
+    IndexTerm="Hex Panel"></AutoIndex>
+  <AutoIndex
+    Phrase="Expansion Window"
+    IndexTerm="Expansion Window"></AutoIndex>
+  <AutoIndex
+    Phrase="Frame View"
+    IndexTerm="Frame View"></AutoIndex>
+  <AutoIndex
+    Phrase="Hex View"
+    IndexTerm="Hex View"></AutoIndex>
+  <AutoIndex
+    Phrase="Raw View"
+    IndexTerm="Raw View"></AutoIndex>
+  <AutoIndex
+    Phrase="Save Trace"
+    IndexTerm="Saving:Trace"></AutoIndex>
+  <AutoIndex
+    Phrase="save trace"
+    IndexTerm="Saving:Trace"></AutoIndex>
+  <AutoIndex
+    Phrase="Save As"
+    IndexTerm="Save:Trace"></AutoIndex>
+  <AutoIndex
+    Phrase="ASCII"
+    IndexTerm="ASCII"></AutoIndex>
+  <AutoIndex
+    Phrase="ECBDIC"
+    IndexTerm="ECBDIC"></AutoIndex>
+  <AutoIndex
+    Phrase="Traffic Generator"
+    IndexTerm="Traffic Generator"></AutoIndex>
+  <AutoIndex
+    Phrase="Traffic Generator"
+    IndexTerm="Traffic Generator:Descriptor"></AutoIndex>
+  <AutoIndex
+    Phrase="Traffic Generator"
+    IndexTerm="Traffic Generator:.FPD File"></AutoIndex>
+  <AutoIndex
+    Phrase="Search"
+    IndexTerm="Searching"></AutoIndex>
+  <AutoIndex
+    Phrase="search"
+    IndexTerm="Searching"></AutoIndex>
+  <AutoIndex
+    Phrase="searching"
+    IndexTerm="Searching"></AutoIndex>
+  <AutoIndex
+    Phrase="Searching"
+    IndexTerm="Searching"></AutoIndex>
+  <AutoIndex
+    Phrase="Time Difference"
+    IndexTerm="Time:Delta"></AutoIndex>
+  <AutoIndex
+    Phrase="Time Difference"
+    IndexTerm="Time Difference"></AutoIndex>
+  <AutoIndex
+    Phrase="View"
+    IndexTerm="Views"></AutoIndex>
+  <AutoIndex
+    Phrase="New View"
+    IndexTerm="Views:New"></AutoIndex>
+  <AutoIndex
+    Phrase="Post Capture Filters"
+    IndexTerm="Post Capture Filters"></AutoIndex>
+  <AutoIndex
+    Phrase="Trace File Structure"
+    IndexTerm="Trace File Structure"></AutoIndex>
+  <AutoIndex
+    Phrase="File Extension"
+    IndexTerm="File Extension"></AutoIndex>
+  <AutoIndex
+    Phrase="Frame Library"
+    IndexTerm="Frame Library"></AutoIndex>
+  <AutoIndex
+    Phrase="Frame Hex"
+    IndexTerm="Frame Hex (Search)"></AutoIndex>
+  <AutoIndex
+    Phrase="Ordered Sets"
+    IndexTerm="Ordered Sets (Search)"></AutoIndex>
+  <AutoIndex
+    Phrase="Adding and Deleting a Bookmark"
+    IndexTerm="Bookmarks:Adding"></AutoIndex>
+  <AutoIndex
+    Phrase="Adding and Deleting a Bookmark"
+    IndexTerm="Bookmarks:Deleting"></AutoIndex>
+  <AutoIndex
+    Phrase="View Menu"
+    IndexTerm="View Menu"></AutoIndex>
+  <AutoIndex
+    Phrase="Options Menu"
+    IndexTerm="Options Menu"></AutoIndex>
+  <AutoIndex
+    Phrase="Loading Color Settings"
+    IndexTerm="Color Settings:Loading"></AutoIndex>
+  <AutoIndex
+    Phrase="This is the term"
+    IndexTerm="Other Term:Subterm"></AutoIndex>
+  <AutoIndex
+    Phrase="Changing Color Settings"
+    IndexTerm="Color Settings:Modifying"></AutoIndex>
+  <AutoIndex
+    Phrase="Save Visual Settings"
+    IndexTerm="Color Settings:Saving"></AutoIndex>
+  <AutoIndex
+    Phrase="This is the term"
+    IndexTerm="Other Term:Subterm"></AutoIndex>
+  <AutoIndex
+    Phrase="Font"
+    IndexTerm="Fonts"></AutoIndex>
+  <AutoIndex
+    Phrase="Timestamp"
+    IndexTerm="Timestamps"></AutoIndex>
+  <AutoIndex
+    Phrase="Info Column"
+    IndexTerm="Info Column"></AutoIndex>
+  <AutoIndex
+    Phrase="Column Headings"
+    IndexTerm="Column Headings"></AutoIndex>
+  <AutoIndex
+    Phrase="Working with a Selection from a Trace"
+    IndexTerm="Selection:Making a Selection"></AutoIndex>
+  <AutoIndex
+    Phrase="Printing or Saving"
+    IndexTerm="Selection:Printing"></AutoIndex>
+  <AutoIndex
+    Phrase="Printing or Saving"
+    IndexTerm="Selection:Saving"></AutoIndex>
+  <AutoIndex
+    Phrase="Trace File Structure"
+    IndexTerm="Trace File:Structure"></AutoIndex>
+  <AutoIndex
+    Phrase="Searching the Trace"
+    IndexTerm="Trace File:Searching"></AutoIndex>
+</CatapultAutoIndexSet>
