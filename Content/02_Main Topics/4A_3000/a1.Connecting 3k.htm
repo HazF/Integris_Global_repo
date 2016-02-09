@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="849" MadCap:lastWidth="624">
+    <head>
+        <link href="../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h2 class="AA_h2_ChandPara" MadCap:conditions="General.UG_PDF" MadCap:autonum="1.1. ">Connecting to the RAN</h2>
+        <h2 MadCap:conditions="General.Online" class="AA_Online_H2">Connecting to the RAN</h2>
+        <p>The Test Port is located on the left side of the Integris 3000 case towards the rear.
+			 Ensure that you insert the correct wavelength SFPs into the test port before testing. <MadCap:xref href="#pt1" class="ListOfPageNumber">(See  Fig 1.1 )</MadCap:xref></p>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col />
+            <tbody>
+                <tr>
+                    <td class="NOTE">
+                        <p><b>NOTE:</b> In order to avoid signal corruption issues that might affect your results, we strongly recommend that the SFP inserted into port 1 is identical to one of the SFPs used in the RRH or the BBU. </p>
+                        <p>Similarly the specification of the passive tap and optical cable should be identical to the that used in the CPRI link.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css');" class="TableStyle-Image_&amp;_LabelStyle01" cellspacing="0">
+            <col class="TableStyle-Image_&amp;_LabelStyle01-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Image_&amp;_LabelStyle01-Body-Body1">
+                    <td style="text-align: center;" class="TableStyle-Image_&amp;_LabelStyle01-BodyD-Column1-Body1">
+                        <img src="../../Resources/Images/Connecting_for_RRH_Tests.jpg" MadCap:mediastyle="@media print { height: auto;width: 200px; }" style="clear: both;vertical-align: text-top;mc-float: center;height: auto;width: 200px;" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Image_&amp;_LabelStyle01-Body-Body1">
+                    <td class="TableStyle-Image_&amp;_LabelStyle01-BodyA-Column1-Body1">
+                        <p class="FigNum01" MadCap:autonum=" Fig 1.1 "><a name="pt1"></a>Integris 2000 Test Port 1
+</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col />
+            <tbody>
+                <tr>
+                    <td class="NOTES_Cell">
+                        <p><b>Information:</b> <i>Integris</i> Ports use Small Form Factor Pluggable (SFP) devices to provide signal conversion of the optical signal on the cable to the electrical signals used inside the Integris system. SFP's are available for many types of physical connection, such as single mode or multi-mode optical cabling, and the specification of SFP's is controlled by a standard which ensures compatibility between SFP's from different manufacturers.&#160;</p>
+                        <p>Part of this standard ensures that all vendors provide machine readable information regarding the SFP's capabilities. This information is called the Vital Product Data (VPD) and includes the SFP manufacturer, supported link rates, optical wavelength, etc.&#160;</p>
+                        <p>The <i>Integris System</i> can read this information and present it to the user so they can verify that the SFP is suitable for the application in which it is being used.                 </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <ol>
+            <li>If a passive tap is already installed in the CPRI link, skip to step 5 <MadCap:xref href="#Connect_Tap" class="ListOfPageNumber">(See  Fig 1.2 )</MadCap:xref></li>
+            <li>Lock down the sector to be tested</li>
+            <li>Insert a passive tap (recommend RRH to port A and BBU to port B)</li>
+            <li>Unlock the sector</li>
+            <li>
+                <p>Connect Integris 3000 to the passive tap as follows:</p>
+                <ol style="list-style-type: lower-alpha;">
+                    <li>To see the uplink, connect the <i>A</i> side of the tap's <i>AB</i> port to the RX of
+					 Integris port 1</li>
+                    <li>To see the downlink, connect the <i>B</i> side of the tap's <i>AB</i> port to the RX
+					 of Integris port 1 <MadCap:xref href="#Connect_SFP" class="ListOfPageNumber">(See  Fig 1.3 )</MadCap:xref></li>
+                </ol>
+            </li>
+        </ol>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css');" class="TableStyle-Image_&amp;_LabelStyle01" cellspacing="0">
+            <col class="TableStyle-Image_&amp;_LabelStyle01-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Image_&amp;_LabelStyle01-Body-Body1">
+                    <td style="text-align: center;" class="TableStyle-Image_&amp;_LabelStyle01-BodyD-Column1-Body1">
+                        <img src="../../Resources/Images/3k-passive-tap01.jpg" MadCap:mediastyle="@media print { height: auto;width: 350px; }" style="clear: both;vertical-align: text-top;mc-float: center;height: auto;width: 350px;" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Image_&amp;_LabelStyle01-Body-Body1">
+                    <td class="TableStyle-Image_&amp;_LabelStyle01-BodyA-Column1-Body1">
+                        <p class="FigNum01" MadCap:autonum=" Fig 1.2 "><a name="Connect_Tap"></a>Connectinvestigator 3000 to the passive tap</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css');" class="TableStyle-Image_&amp;_LabelStyle01" cellspacing="0">
+            <col class="TableStyle-Image_&amp;_LabelStyle01-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-Image_&amp;_LabelStyle01-Body-Body1">
+                    <td style="text-align: center;" class="TableStyle-Image_&amp;_LabelStyle01-BodyD-Column1-Body1">
+                        <img src="../../Resources/Images/3000/3.1/3k-RL-tap-connection01-sml.jpg" MadCap:mediastyle="@media print { height: auto;width: 300px; }" style="clear: both;vertical-align: text-top;mc-float: center;height: auto;width: 300px;" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Image_&amp;_LabelStyle01-Body-Body1">
+                    <td class="TableStyle-Image_&amp;_LabelStyle01-BodyA-Column1-Body1">
+                        <p class="FigNum01" MadCap:autonum=" Fig 1.3 "><a name="Connect_SFP"></a>Connect the required tap port (A or B on the AB port) to <i>Integris 3000 port 1</i> RX socket (generally marked with an 'in' arrow)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

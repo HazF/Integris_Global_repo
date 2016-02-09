@@ -7,10 +7,9 @@
   GlossaryTermConversion="marked"
   PatchHeadingLevels="true"
   InjectEmptyPages="true"
-  conditions="Default.PrintOnly"
-  MasterToc="/Project/TOCs/Viewer_PDF_UG.fltoc"
+  conditions="Default.Print"
   OutputFile="Trace_Viewer_UG_30001"
-  ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
+  ConditionTagExpression="include[Default.Print]exclude[Default.Screen]"
   MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
   DisableAutoSync="true">
   <PrintedOutput

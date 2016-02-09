@@ -5,9 +5,8 @@
   Type="MsWord"
   Destinations=""
   GlossaryTermConversion="marked"
-  MasterToc="/Project/TOCs/Viewer_PDF_UG.fltoc"
   MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-  ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] ">
+  ConditionTagExpression="include[Default.Print]exclude[Default.Screen]">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

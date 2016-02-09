@@ -6,12 +6,13 @@
   Destinations=""
   GlossaryTermConversion="marked"
   MasterToc="/Project/TOCs/RL_User_Guide.fltoc"
-  ConditionTagExpression=""
+  ConditionTagExpression="include[Default.Print] exclude[Default.Screen] "
   PatchHeadingLevels="true"
   InjectEmptyPages="true"
   OutputFile="Integris_UG-20003"
   MasterStylesheet="/Content/Resources/Stylesheets/AA_Integris-styles01.css"
-  MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+  MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+  conditions="Default.Print">
   <PrintedOutput
     CollapseMargins="true"
     ExpandingTextConversion="expand"

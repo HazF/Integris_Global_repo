@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
-  conditions="Default.PrintOnly"
+  conditions="Default.Print"
   fileTags="AuthorFileTags.Haz Fairweather">
   <TocEntry
     Title="Title"
@@ -54,7 +54,7 @@
   </TocEntry>
   <TocEntry
     Title="Powering On the System"
-    Link="/Content/02_Main Topics/1A_Powering Up/a.System Setup.htm"
+    Link="/Content/10_Integris Main Topics/1A_Powering Up/a.System Setup.htm"
     BreakType="chapter"
     PageType="right"
     StartSection="false"
@@ -67,11 +67,11 @@
     PageNumber="1">
     <TocEntry
       Title="Connecting to AC Power"
-      Link="/Content/02_Main Topics/1A_Powering Up/b.Power Up.htm" />
+      Link="/Content/10_Integris Main Topics/1A_Powering Up/b.Power Up.htm" />
   </TocEntry>
   <TocEntry
     Title="Integris 2000"
-    Link="/Content/02_Main Topics/3A_2000/a.Introduction.htm"
+    Link="/Content/10_Integris Main Topics/3A_2000/a.Introduction.htm"
     BreakType="chapter"
     PageType="right"
     StartSection="false"
@@ -82,49 +82,49 @@
     ChapterNumberReset="continue">
     <TocEntry
       Title="Connecting Up"
-      Link="/Content/02_Main Topics/3A_2000/b.Connecting_2k.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/b.Connecting_2k.htm" />
     <TocEntry
       Title="Starting Integris 2000"
-      Link="/Content/02_Main Topics/3A_2000/b2.Starting Integris 2000.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/b2.Starting Integris 2000.htm" />
     <TocEntry
       Title="Installation Test Sequence"
-      Link="/Content/02_Main Topics/3A_2000/b3.Installation Tests.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/b3.Installation Tests.htm" />
     <TocEntry
       Title="Troubleshooting"
-      Link="/Content/02_Main Topics/3A_2000/b4.Troubleshooting.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/b4.Troubleshooting.htm" />
     <TocEntry
       Title="Setting the Link Rate"
-      Link="/Content/02_Main Topics/3A_2000/c1.Set Link Rate.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/c1.Set Link Rate.htm" />
     <TocEntry
       Title="Loading a Configuration File"
-      Link="/Content/02_Main Topics/3A_2000/c2.Load Config File.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/c2.Load Config File.htm" />
     <TocEntry
       Title="Viewing Physical Layer Information"
-      Link="/Content/02_Main Topics/3A_2000/c3.PhysicalLayerInfo.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/c3.PhysicalLayerInfo.htm" />
     <TocEntry
       Title="Resetting Integris to Default Settings"
-      Link="/Content/02_Main Topics/3A_2000/c4.Reset.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/c4.Reset.htm" />
     <TocEntry
       Title="Accessing Integris Help"
-      Link="/Content/02_Main Topics/3A_2000/c5.HelpAbout&amp;Closing.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/c5.HelpAbout&amp;Closing.htm" />
     <TocEntry
       Title="Testing a Remote Radio Head"
-      Link="/Content/02_Main Topics/3A_2000/d1.Tests-RRH.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/d1.Tests-RRH.htm" />
     <TocEntry
       Title="Testing a Cable"
-      Link="/Content/02_Main Topics/3A_2000/e.Tests-Cable.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/e.Tests-Cable.htm" />
     <TocEntry
       Title="Testing an SFP"
-      Link="/Content/02_Main Topics/3A_2000/f.Tests-SFP.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/f.Tests-SFP.htm" />
     <TocEntry
       Title="Monitor Mode"
-      Link="/Content/02_Main Topics/3A_2000/h.Monitor.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/h.Monitor.htm" />
     <TocEntry
       Title="Working with Test Reports"
-      Link="/Content/02_Main Topics/3A_2000/i.Reports.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/i.Reports.htm" />
     <TocEntry
       Title="Appendices"
-      Link="/Content/02_Main Topics/3A_2000/x.APPENDICES----.htm"
+      Link="/Content/10_Integris Main Topics/3A_2000/x.APPENDICES----.htm"
       BreakType="pageLayout"
       PageType="continue"
       ChapterNumberReset="same"
@@ -136,10 +136,10 @@
       ReplaceMergeNode="false"></TocEntry>
     <TocEntry
       Title="Integris 2000 Hot Keys"
-      Link="/Content/02_Main Topics/3A_2000/x1.Hot Keys.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/x1.Hot Keys.htm" />
     <TocEntry
       Title="Configuration File Descriptions"
-      Link="/Content/02_Main Topics/3A_2000/x3.Config File descriptions.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/x3.Config File descriptions.htm" />
   </TocEntry>
   <TocEntry
     Title="Integris 3000"

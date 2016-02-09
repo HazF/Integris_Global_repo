@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
-  Version="2"
+  Version="1"
   SkinType="WebHelp2"
   Comment="HTML5 skin"
   Anchors="Width,Height"
@@ -15,7 +15,8 @@
   UseBrowserDefaultSize="True"
   UseDefaultBrowserSetup="True"
   RemoveImagesOnSave="true"
-  EnableResponsiveOutput="true">
+  EnableResponsiveOutput="true"
+  conditions="Default.Screen">
   <Stylesheet>
     <Styles>
       <Style

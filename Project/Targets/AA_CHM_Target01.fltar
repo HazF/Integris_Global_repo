@@ -6,7 +6,7 @@
   Destinations=""
   GlossaryTermConversion="marked"
   Skin="/Project/Skins/AA_CHM_Skin01.flskn"
-  ConditionTagExpression="include[Default.ScreenOnly]exclude[Default.PrintOnly]"
+  ConditionTagExpression="include[Default.Screen]exclude[Default.Print]"
   conditions="ScreenOnly"
   OutputFile="Viewer_Help_33001">
   <PrintedOutput

@@ -754,6 +754,7 @@ p.CautionStyle01
 		font-style: italic;
 		color: #ffdead;
 		font-weight: bold;
+		padding-left: 10px;
 	}
 
 	h1.AA_h1_Appendix
@@ -773,7 +774,7 @@ p.CautionStyle01
 	{
 		background-color: #000080;
 		font-family: 'Century Gothic';
-		color: #fbeda4;
+		color: #ffdead;
 	}
 
 	table
@@ -790,13 +791,22 @@ p.CautionStyle01
 
 	h1
 	{
-		color: #ffff99;
 		font-style: italic;
 		background-color: #0000cd;
 		border: solid 1px;
 		border-bottom-width: 2px;
 		border-color: #0000cd;
 		border-bottom-color: #000080;
+		color: #ffff90;
+		border-radius: 3px;
+	}
+
+	h1.AA_h1_Screen
+	{
+		color: #ffdead;
+		font-family: 'Century Gothic';
+		font-weight: 500;
+		background-color: #0000cd;
 	}
 }
 
@@ -938,13 +948,13 @@ h1.AA_Chpt_Heading1
 	border-bottom-color: #000080;
 	border-radius: 3px;
 	margin-left: 10px;
-	padding-left: 0px;
 	padding-right: 0px;
 	margin-bottom: 12px;
 	margin-right: 10px;
 	margin-top: 10px;
 	margin: 0;
 	line-height: 2em;
+	padding-left: 10px;
 }
 
 p.ForcePageBreak
@@ -1002,5 +1012,25 @@ p.TableNum01
 MadCap|xref.Simple
 {
 	mc-format: '{paranum}';
+}
+
+h1.AA_h1_Screen
+{
+	background-color: #3e3e3e;
+	border-bottom-color: #BED230;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	color: #ffffff;
+	font-size: 1.3em;
+	font-weight: normal;
+	margin-bottom: 8px;
+	margin-left: -17px;
+	margin-right: -17px;
+	margin-top: 0px;
+	padding-bottom: 10px;
+	padding-left: 17px;
+	padding-right: 17px;
+	padding-top: 10px;
+	width: 100%;
 }
 
