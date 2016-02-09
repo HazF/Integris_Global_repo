@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
-  Version="1"
-  conditions="General.RL_PDF">
+  Version="1">
   <TocEntry
     Title="QSG_TitlePage"
     Link="/Content/Print Only Topics/QSG_TitlePage.htm"

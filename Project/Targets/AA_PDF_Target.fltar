@@ -8,7 +8,6 @@
   PatchHeadingLevels="true"
   InjectEmptyPages="true"
   conditions="Default.PrintOnly"
-  MasterStylesheet="/Content/Resources/Stylesheets/AA_styles.css"
   MasterToc="/Project/TOCs/Viewer_PDF_UG.fltoc"
   OutputFile="Trace_Viewer_UG_30001"
   ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "

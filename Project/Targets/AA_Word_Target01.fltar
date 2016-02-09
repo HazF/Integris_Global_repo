@@ -7,7 +7,6 @@
   GlossaryTermConversion="marked"
   MasterToc="/Project/TOCs/Viewer_PDF_UG.fltoc"
   MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-  MasterStylesheet="/Content/Resources/Stylesheets/AA_styles.css"
   ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] ">
   <PrintedOutput
     CollapseMargins="true"

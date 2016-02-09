@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
-  conditions="General.RL_PDF">
+  conditions="Default.PrintOnly"
+  fileTags="AuthorFileTags.Haz Fairweather">
   <TocEntry
     Title="Title"
     StartSection="false"

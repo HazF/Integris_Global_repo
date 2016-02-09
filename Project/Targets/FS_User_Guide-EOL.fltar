@@ -5,11 +5,9 @@
   Type="PDF"
   Destinations=""
   GlossaryTermConversion="marked"
-  MasterToc="/Project/TOCs/FS_User_Guide (EOL).fltoc"
-  ConditionTagExpression="include[General.FS_PDF] exclude[General.Online or General.RL_PDF] "
+  ConditionTagExpression=""
   PatchHeadingLevels="true"
-  InjectEmptyPages="true"
-  conditions="General.FS_PDF">
+  InjectEmptyPages="true">
   <PrintedOutput
     CollapseMargins="true"
     ExpandingTextConversion="expand"

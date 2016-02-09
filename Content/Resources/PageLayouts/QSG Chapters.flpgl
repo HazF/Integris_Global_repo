@@ -13,7 +13,7 @@
                             <xhtml:tbody>
                                 <xhtml:tr>
                                     <xhtml:td><MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.PDF_QSGTitleLong" /> V<MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG-DocEdition" /></xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;" MadCap:conditions="General.FS_PDF">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -81,7 +81,7 @@
                             <xhtml:tbody>
                                 <xhtml:tr>
                                     <xhtml:td><MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.PDF_QSGTitleLong" /> V<MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG-DocEdition" /></xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;" MadCap:conditions="General.FS_PDF">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -126,7 +126,7 @@
                             <xhtml:tbody>
                                 <xhtml:tr>
                                     <xhtml:td><MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.PDF_QSGTitleLong" /> V<MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG-DocEdition" /></xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;" MadCap:conditions="General.FS_PDF">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -171,7 +171,7 @@
                             <xhtml:tbody>
                                 <xhtml:tr>
                                     <xhtml:td><MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.PDF_QSGTitleLong" /> V<MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG-DocEdition" /></xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;" MadCap:conditions="General.FS_PDF">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -223,7 +223,7 @@
                             <xhtml:tbody>
                                 <xhtml:tr>
                                     <xhtml:td><MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.PDF_QSGTitleLong" /> V<MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG-DocEdition" /></xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;" MadCap:conditions="General.FS_PDF">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>

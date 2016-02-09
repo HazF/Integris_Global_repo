@@ -7,7 +7,7 @@
   GlossaryTermConversion="marked"
   MasterToc="/Project/TOCs/2000_CHM.fltoc"
   MasterStylesheet="/Content/Resources/Stylesheets/AA_Integris-styles01.css"
-  ConditionTagExpression="include[General.Online] exclude[General.FS_PDF or General.RL_PDF] "
+  ConditionTagExpression=""
   Medium="non-print"
   Skin="/Project/Skins/Int_2000-CHM_Skin01.flskn"
   OutputFile="Integris 2000 Help-20006">

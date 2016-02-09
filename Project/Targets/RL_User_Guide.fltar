@@ -6,10 +6,9 @@
   Destinations=""
   GlossaryTermConversion="marked"
   MasterToc="/Project/TOCs/RL_User_Guide.fltoc"
-  ConditionTagExpression="include[General.RL_PDF] exclude[General.FS_PDF or General.Online] "
+  ConditionTagExpression=""
   PatchHeadingLevels="true"
   InjectEmptyPages="true"
-  conditions="General.RL_PDF"
   OutputFile="Integris_UG-20003"
   MasterStylesheet="/Content/Resources/Stylesheets/AA_Integris-styles01.css"
   MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">

@@ -6,10 +6,9 @@
   Destinations=""
   GlossaryTermConversion="marked"
   MasterToc="/Project/TOCs/RL_QSG_TOC.fltoc"
-  ConditionTagExpression="include[General.RL_PDF] exclude[General.FS_PDF or General.Online] "
+  ConditionTagExpression=""
   PatchHeadingLevels="true"
   InjectEmptyPages="true"
-  conditions="General.RL_PDF"
   OutputFile="Integris_QSG-20000"
   MasterStylesheet="/Content/Resources/Stylesheets/AA_Integris-styles01.css"
   MasterPageLayout="/Content/Resources/PageLayouts/QSG Chapters.flpgl">

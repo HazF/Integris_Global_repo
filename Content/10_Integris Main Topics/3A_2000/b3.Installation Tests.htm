@@ -5,8 +5,8 @@
         <link href="../Resources/Stylesheets/HelpStylesheet_AA.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <h2 class="AA_h2_ChandPara" MadCap:conditions="General.UG_PDF,General.QSG_PDF" MadCap:autonum="1.1. ">Installation Test Sequence</h2>
-        <h2 MadCap:conditions="General.Online">Installation  Test Sequence</h2>
+        <h2 class="AA_h2_ChandPara" MadCap:autonum="1.1. ">Installation Test Sequence</h2>
+        <h2>Installation  Test Sequence</h2>
         <p>The Integris 2000 <i>Radio</i> test checks the operation of the whole RAN installation and successful completion of this test signals a <i>Pass</i> for the site. This section describes a complete RAN&#160;installation test sequence, then records the results to a report file. This file can be exported in Portable Document Format (PDF) for record keeping purposes.</p>
         <p>Radio Head testing consists of a sequence of individual tests that initialize the CPRI link and Remote Radio Head (RRH). They then verify that the link is capable of reliably supporting CPRI traffic at the current speed.</p>
         <table style="width: 100%;" class="FigureTable">
@@ -31,7 +31,7 @@
             <li>Remove cable connecting the RRH to the BBU, by disconnecting it from the SFP in the BBU</li>
             <li>Remove the SFP from the BBU port where the cable to the RRH was previously connected</li>
             <li>Place this SFP in port 1 of the Integris System</li>
-            <li>Connect the cable from the RRH to the SFP in port 1 of the Integris System <MadCap:conditionalText MadCap:conditions="General.QSG_PDF,General.UG_PDF"><MadCap:xref href="#port1" class="ListOfPageNumber">(See  Fig 1.2 )</MadCap:xref></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Online">(See <MadCap:xref href="#port1">Integris 2000 Test Port 1
+            <li>Connect the cable from the RRH to the SFP in port 1 of the Integris System <MadCap:conditionalText><MadCap:xref href="#port1" class="ListOfPageNumber">(See  Fig 1.2 )</MadCap:xref></MadCap:conditionalText><MadCap:conditionalText>(See <MadCap:xref href="#port1">Integris 2000 Test Port 1
 </MadCap:xref>)</MadCap:conditionalText>.</li>
             <li>Power on the Radio Head.</li>
         </ol>
@@ -60,9 +60,9 @@
         <p>The text on the icon will display the words "<span style="color: #2e8b57; font-weight: bold;">
 		Active Link</span>" in green if the SFP recognizes an active CPRI&#160;link, or a red error message if a
 			 problem exists
-<MadCap:conditionalText MadCap:conditions="General.UG_PDF,General.QSG_PDF,General.FS_PDF"><MadCap:xref href="c1.Set Link Rate.htm" class="IndexPageNumber">(See "Setting the Link Rate", page 1)</MadCap:xref></MadCap:conditionalText></p>
-        <p MadCap:conditions="General.Online">
-            <MadCap:conditionalText MadCap:conditions="General.Online">(See 
+<MadCap:conditionalText><MadCap:xref href="c1.Set Link Rate.htm" class="IndexPageNumber">(See "Setting the Link Rate", page 1)</MadCap:xref></MadCap:conditionalText></p>
+        <p>
+            <MadCap:conditionalText>(See 
 		<MadCap:xref href="c1.Set Link Rate.htm">Setting the Link Rate</MadCap:xref>)</MadCap:conditionalText>
         </p>
         <p>Radio Head testing is accomplished by transmitting a test sequence that is matched to the equipment being tested. </p>
@@ -73,11 +73,11 @@
             <li>
                 <p>Select the required configuration file from the list. 
                 
-                    <MadCap:conditionalText MadCap:conditions="General.UG_PDF,General.QSG_PDF,General.FS_PDF"><MadCap:xref href="x3.Config File descriptions.htm" class="IndexPageNumber">See "Configuration Files", page 1</MadCap:xref></MadCap:conditionalText></p>
+                    <MadCap:conditionalText><MadCap:xref href="x3.Config File descriptions.htm" class="IndexPageNumber">See "Configuration Files", page 1</MadCap:xref></MadCap:conditionalText></p>
             </li>
         </ol>
-        <p MadCap:conditions="General.Online">
-            <MadCap:conditionalText MadCap:conditions="General.Online">(See 
+        <p>
+            <MadCap:conditionalText>(See 
 
 
 		<MadCap:xref href="x3.Config File descriptions.htm">Configuration Files</MadCap:xref> for more details on configuration files)

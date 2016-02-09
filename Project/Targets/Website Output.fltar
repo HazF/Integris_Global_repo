@@ -7,7 +7,7 @@
   GlossaryTermConversion="marked"
   DefaultUrl="/Content/01_Introduction Topics/b.Safety &amp; Compliance.htm"
   MasterToc="/Project/TOCs/3000_CHM.fltoc"
-  ConditionTagExpression="include[General.Online]exclude[General.RL_PDF]"
+  ConditionTagExpression=""
   InsertMOTW="true"
   EnableSitemap="false"
   IncludeStopWords="true"

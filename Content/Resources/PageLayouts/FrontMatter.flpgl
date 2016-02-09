@@ -6,7 +6,7 @@
         <Frame X="-69px" Y="-77px" Width="763px" Height="52px" Flow="header" Right="-70px" Bottom="889px">
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
-                    <xhtml:body MadCap:conditions="General.FS_PDF" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+                    <xhtml:body xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
                         <xhtml:table xhtml:style="width: 100%;">
                             <xhtml:col />
                             <xhtml:col />
@@ -62,7 +62,7 @@
         <Frame X="-69px" Y="-77px" Width="763px" Height="52px" Flow="header" Right="-70px" Bottom="889px">
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
-                    <xhtml:body MadCap:conditions="General.FS_PDF" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+                    <xhtml:body xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
                         <xhtml:table xhtml:style="width: 100%;">
                             <xhtml:col />
                             <xhtml:col />
@@ -96,7 +96,7 @@
         <Frame X="-69px" Y="-77px" Width="763px" Height="52px" Flow="header" Right="-70px" Bottom="889px">
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
-                    <xhtml:body MadCap:conditions="General.FS_PDF" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+                    <xhtml:body xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
                         <xhtml:table xhtml:style="width: 100%;">
                             <xhtml:col />
                             <xhtml:col />

@@ -35,7 +35,7 @@
                             <xhtml:tbody>
                                 <xhtml:tr>
                                     <xhtml:td><MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.PDF_QSGTitleLong" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> V<MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG-DocEdition" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;" MadCap:conditions="General.FS_PDF" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">DCN# <MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-QSG" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>

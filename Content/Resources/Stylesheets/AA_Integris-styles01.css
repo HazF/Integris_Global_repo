@@ -473,16 +473,18 @@ p.ManualVersionNumber
 		mc-auto-number-position: inside-head;
 		border-bottom-width: 1px;
 		line-height: 32pt;
-		border-bottom-color: #0000cd;
 		border-bottom: solid 1px;
 		margin-bottom: 40px;
 		font-size: 28pt;
 		font-weight: 400;
-		color: #ffdead;
 		font-style: italic;
 		padding-top: 10px;
 		padding-bottom: 10px;
 		padding-left: 10px;
+		color: #000080;
+		background-color: #ffffff;
+		border-radius: 0px;
+		border-bottom-color: #000080;
 	}
 
 	h1.AA_h1_Appendix
@@ -784,6 +786,17 @@ p.CautionStyle01
 		page-break-inside: avoid;
 		frame-break-inside: avoid;
 		widows: avoid;
+	}
+
+	h1
+	{
+		color: #ffff99;
+		font-style: italic;
+		background-color: #0000cd;
+		border: solid 1px;
+		border-bottom-width: 2px;
+		border-color: #0000cd;
+		border-bottom-color: #000080;
 	}
 }
 
