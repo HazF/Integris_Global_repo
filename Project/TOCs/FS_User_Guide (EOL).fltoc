@@ -26,8 +26,7 @@
     <TocEntry
       Title="Safety &amp; Compliance"></TocEntry>
     <TocEntry
-      Title="Environmental Considerations"
-      Link="/Content/01_Introduction Topics/c.Environmental.htm" />
+      Title="Environmental Considerations" />
     <TocEntry
       Title="Document Conventions"
       Link="/Content/01_Introduction Topics/d.Document_Conventions.htm"></TocEntry>
@@ -44,7 +43,7 @@
   </TocEntry>
   <TocEntry
     Title="System Operation"
-    Link="/Content/01_Introduction Topics/e2.Operating the System.htm">
+    Link="/Content/01_Introduction Topics/h.Operating the System.htm">
     <TocEntry
       Title="Operating the Laptop" />
   </TocEntry>

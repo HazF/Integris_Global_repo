@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultAliasFile conditions="">
     <Map Name="NEW" Link="/Content/01_Introduction Topics/a1.UG_Legal.htm" />
-    <Map />
-    <Map Name="NEW2" Link="/Content/01_Introduction Topics/c.Environmental.htm" />
     <Map Name="NEW3" Link="/Content/01_Introduction Topics/d.Document_Conventions-old.htm" />
     <Map Name="NEW4" Link="/Content/01_Introduction Topics/d.Document_Conventions.htm" />
     <Map Name="NEW5" Link="/Content/01_Introduction Topics/e.Tech Support &amp; Calibration.htm" />
-    <Map Name="NEW6" Link="/Content/01_Introduction Topics/e2.Operating the System.htm" />
-    <Map Name="NEW7" Link="/Content/01_Introduction Topics/f.RL_Unpacking &amp; Setting Up.htm" />
-    <Map Name="NEW9" Link="/Content/01_Introduction Topics/h.RL_Operating.htm" />
+    <Map Name="NEW6" Link="/Content/01_Introduction Topics/h.Operating the System.htm" />
+    <Map Name="NEW7" Link="/Content/01_Introduction Topics/f.Unpacking &amp; Setting Up.htm" />
+    <Map Name="NEW9" Link="/Content/01_Introduction Topics/h.Operating.htm" />
     <Map Name="NEW10" Link="/Content/02_Main Topics/1A_1000/3A.1000_Getting_Started.htm" />
     <Map Name="NEW11" Link="/Content/02_Main Topics/1A_1000/3B.1000_Configuration.htm" />
     <Map Name="NEW12" Link="/Content/02_Main Topics/1A_1000/a.Connecting_Up.htm" />
