@@ -85,7 +85,7 @@
       Link="/Content/10_Integris Main Topics/3A_2000/b.Connecting_2k.htm" />
     <TocEntry
       Title="Starting Integris 2000"
-      Link="/Content/10_Integris Main Topics/3A_2000/b2.Starting Integris 2000.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/b2.Starting &amp; Closing Integris 2000.htm" />
     <TocEntry
       Title="Installation Test Sequence"
       Link="/Content/10_Integris Main Topics/3A_2000/b3.Installation Tests.htm" />
@@ -106,10 +106,10 @@
       Link="/Content/10_Integris Main Topics/3A_2000/c4.Reset.htm" />
     <TocEntry
       Title="Accessing Integris Help"
-      Link="/Content/10_Integris Main Topics/3A_2000/c5.HelpAbout&amp;Closing.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/c5.Help.htm" />
     <TocEntry
       Title="Testing a Remote Radio Head"
-      Link="/Content/10_Integris Main Topics/3A_2000/d1.Tests-RRH.htm" />
+      Link="/Content/10_Integris Main Topics/3A_2000/d.Tests-RRH.htm" />
     <TocEntry
       Title="Testing a Cable"
       Link="/Content/10_Integris Main Topics/3A_2000/e.Tests-Cable.htm" />
