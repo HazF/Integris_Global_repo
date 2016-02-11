@@ -5,7 +5,6 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  DefaultUrl="/Content/01_Introduction Topics/b.Safety &amp; Compliance.htm"
   MasterToc="/Project/TOCs/3000_CHM.fltoc"
   ConditionTagExpression=""
   InsertMOTW="true"

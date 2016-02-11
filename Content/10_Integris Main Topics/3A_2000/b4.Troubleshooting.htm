@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="829" MadCap:lastWidth="624">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="786" MadCap:lastWidth="624">
     <head>
         <link href="../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" />
         <link href="../../Resources/Table Stylesheets/NoteBoxStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Connecting Up</title>
     </head>
     <body>
-        <h2 class="AA_h2_ChandPara" MadCap:autonum="1.1. ">Troubleshooting a RAN Installation</h2>
-        <h2>Troubleshooting a RAN Installation</h2>
+        <h2 class="AA_h2_ChandPara" MadCap:autonum="1.1. " MadCap:conditions="Default.Print">Troubleshooting a RAN Installation</h2>
+        <h2 class="AA_Online_H2" MadCap:conditions="Default.Screen">Troubleshooting a RAN Installation</h2>
         <p>If a radio head fails the initial  <i>Integris 2000 Radio</i> tests then there is a logical debug sequence to follow to locate the component giving the problem. This section suggests a sequence of actions and details the required tests. </p>
         <h3>Repeat the radio test at Ground Level</h3>
         <p>Bringing the Radio Head back to ground level makes replacing components, and unit configuration easier.</p>
@@ -30,8 +30,8 @@
             <li>Take a full duplex cable and connect one end to the  RRH</li>
             <li>
                 <p>Connect the other end of the cable to the SFP in port
-						 1 of the Integris System <MadCap:conditionalText><MadCap:xref href="#port1" class="ListOfPageNumber">(See  Fig 1.2 )</MadCap:xref></MadCap:conditionalText><MadCap:conditionalText>(See <MadCap:xref href="#port1">Integris 2000 Test Port 1
-</MadCap:xref>)</MadCap:conditionalText>.</p>
+						 1 of the Integris System <MadCap:conditionalText MadCap:conditions="Default.Print"><MadCap:conditionalText><MadCap:xref href="#port1" class="ListOfPageNumber">(See  Fig 1.2 )</MadCap:xref></MadCap:conditionalText></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.Screen"><MadCap:conditionalText>(See <MadCap:xref href="#port1">Integris 2000 Test Port 1
+</MadCap:xref>)</MadCap:conditionalText></MadCap:conditionalText>.</p>
                 <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/NoteBoxStyle01.css');" class="TableStyle-NoteBoxStyle01" cellspacing="0">
                     <col class="TableStyle-NoteBoxStyle01-Column-Column1" />
                     <tbody>
@@ -48,7 +48,7 @@
             Openning the <i>TEST</i> menu and selecting <b>SELECT&#160;TEST</b>. Then click on the <b>RADIO</b>&#160;option. </li>
             <li>Now click on <b>RUN</b> from the same menu (or press the <b>F5</b> key),
                 
-                <p><MadCap:conditionalText>(<MadCap:xref href="d1.Tests-RRH.htm" class="IndexPageNumber">See "Testing a Remote Radio Head", page 1</MadCap:xref>)</MadCap:conditionalText><MadCap:conditionalText>(See also <MadCap:xref href="d1.Tests-RRH.htm">Testing a Remote Radio Head</MadCap:xref>)</MadCap:conditionalText></p> <![CDATA[ ]]></li>
+                <p><MadCap:conditionalText MadCap:conditions="Default.Print">(<MadCap:xref href="d1.Tests-RRH.htm" class="IndexPageNumber">See "Testing a Remote Radio Head", page 1</MadCap:xref>)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.Screen"><MadCap:conditionalText>(See also <MadCap:xref href="d1.Tests-RRH.htm">Testing a Remote Radio Head</MadCap:xref>)</MadCap:conditionalText></MadCap:conditionalText></p> <![CDATA[ ]]></li>
         </ol>
         <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css');" class="TableStyle-Image_&amp;_LabelStyle01" cellspacing="0">
             <col class="TableStyle-Image_&amp;_LabelStyle01-Column-Column1" />
@@ -108,8 +108,12 @@
         </table>
         <p>If this (local) SFP passes the SFP test, remove the SFP in the radio head and insert that in Integris test port 1<MadCap:conditionalText> <MadCap:xref href="#SFP" class="ListOfPageNumber">(See  Fig 1.3 )</MadCap:xref></MadCap:conditionalText>. Fit the loopback cable and repeat the test.</p>
         <p>
-            <MadCap:conditionalText>(<MadCap:xref href="f.Tests-SFP.htm" class="IndexPageNumber">See "Testing an SFP", page 1</MadCap:xref>)</MadCap:conditionalText>
-            <MadCap:conditionalText>(See also <MadCap:xref href="f.Tests-SFP.htm">Testing an SFP</MadCap:xref>)</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="Default.Print">
+                <MadCap:conditionalText>(<MadCap:xref href="f.Tests-SFP.htm" class="IndexPageNumber">See "Testing an SFP", page 1</MadCap:xref>)</MadCap:conditionalText>
+            </MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="Default.Screen">
+                <MadCap:conditionalText>(See also <MadCap:xref href="f.Tests-SFP.htm">Testing an SFP</MadCap:xref>)</MadCap:conditionalText>
+            </MadCap:conditionalText>
         </p>
         <h3>Testing the Cable </h3>
         <p>The next logical step is a test of the cable linking the Integris system to the Radio Head. This procedure assumes the SFP currently in Integris test port 1 has passed the SFP test.</p>
@@ -123,8 +127,10 @@
             <li>Now click on <b>RUN</b> from the same menu (or press the <b>F5</b> key),</li>
         </ol>
         <p>
-            <MadCap:conditionalText>(<MadCap:xref href="e.Tests-Cable.htm" class="IndexPageNumber">See "Testing a Cable", page 1</MadCap:xref>)</MadCap:conditionalText>
-            <MadCap:conditionalText>(See also <MadCap:xref href="e.Tests-Cable.htm">Testing a Cable</MadCap:xref>)</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="Default.Print">(<MadCap:xref href="e.Tests-Cable.htm" class="IndexPageNumber">See "Testing a Cable", page 1</MadCap:xref>)</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="Default.Screen">
+                <MadCap:conditionalText>(See also <MadCap:xref href="e.Tests-Cable.htm">Testing a Cable</MadCap:xref>)</MadCap:conditionalText>
+            </MadCap:conditionalText>
         </p>
         <h3>Monitor Mode Testing</h3>
         <p>Radio head monitoring is a long term test designed to exercise the  radio head over a period of time. This allows installation crews time to adjust or modify the installation. </p>
@@ -140,8 +146,10 @@
             <li>To stop monitoring, select the <b>Test</b> menu and click on <b>STOP</b></li>
         </ol>
         <p>
-            <MadCap:conditionalText>(<MadCap:xref href="h.Monitor.htm" class="IndexPageNumber">See "Monitor Mode", page 1</MadCap:xref>)</MadCap:conditionalText>
-            <MadCap:conditionalText>(See also <MadCap:xref href="h.Monitor.htm">Monitor Mode</MadCap:xref>)</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="Default.Print">(<MadCap:xref href="h.Monitor.htm" class="IndexPageNumber">See "Monitor Mode", page 1</MadCap:xref>)</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="Default.Screen">
+                <MadCap:conditionalText>(See also <MadCap:xref href="h.Monitor.htm">Monitor Mode</MadCap:xref>)</MadCap:conditionalText>
+            </MadCap:conditionalText>
         </p>
     </body>
 </html>

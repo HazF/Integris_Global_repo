@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
-  Version="1"
-  conditions="General.FS_PDF">
+  Version="1">
   <TocEntry
     Title="Title"
     StartSection="false"
@@ -25,8 +24,7 @@
     PageNumberReset="reset"
     PageNumber="1">
     <TocEntry
-      Title="Safety &amp; Compliance"
-      Link="/Content/01_Introduction Topics/b.Safety &amp; Compliance.htm"></TocEntry>
+      Title="Safety &amp; Compliance"></TocEntry>
     <TocEntry
       Title="Environmental Considerations"
       Link="/Content/01_Introduction Topics/c.Environmental.htm" />
@@ -48,8 +46,7 @@
     Title="System Operation"
     Link="/Content/01_Introduction Topics/e2.Operating the System.htm">
     <TocEntry
-      Title="Operating the Laptop"
-      Link="/Content/01_Introduction Topics/h.FS_Operating.htm" />
+      Title="Operating the Laptop" />
   </TocEntry>
   <TocEntry
     Title="2A_2000"
