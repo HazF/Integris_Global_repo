@@ -54,7 +54,7 @@
   </TocEntry>
   <TocEntry
     Title="Powering On the System"
-    Link="/Content/10_Integris Main Topics/1A_Powering Up/a.System Setup.htm"
+    Link="/Content/1A_Powering Up/a.System Setup.htm"
     BreakType="chapter"
     PageType="right"
     StartSection="false"
@@ -67,7 +67,7 @@
     PageNumber="1">
     <TocEntry
       Title="Connecting to AC Power"
-      Link="/Content/10_Integris Main Topics/1A_Powering Up/b.Power Up.htm" />
+      Link="/Content/1A_Powering Up/b.Power Up.htm" />
   </TocEntry>
   <TocEntry
     Title="Integris 2000"
@@ -154,7 +154,7 @@
     <TocEntry
       Title="The Menu Selector" />
     <TocEntry
-      Title="Cabling for  RF extraction" />
+      Title="Cabling for RF extraction" />
     <TocEntry
       Title="Starting Integris 3000" />
     <TocEntry

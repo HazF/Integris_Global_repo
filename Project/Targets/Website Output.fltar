@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="HTML5 Output"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/3000_CHM.fltoc"
+  ConditionTagExpression=""
+  InsertMOTW="true"
+  EnableSitemap="false"
+  IncludeStopWords="true"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png"></CatapultTarget>
