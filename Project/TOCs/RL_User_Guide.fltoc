@@ -34,7 +34,7 @@
     Link="/Content/01_Introduction Topics/a1.UG_Legal.htm"
     BreakType="chapter"
     PageType="right"
-    AutoEndOnLeftPage="disabled"
+    AutoEndOnLeftPage="enabled"
     StartSection="false"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
     PageNumberReset="reset"
@@ -54,7 +54,7 @@
   </TocEntry>
   <TocEntry
     Title="Powering On the System"
-    Link="/Content/1A_Powering Up/a.System Setup.htm"
+    Link="/Content/03_Powering Up/a.System Setup.htm"
     BreakType="chapter"
     PageType="right"
     StartSection="false"
@@ -64,14 +64,15 @@
     ChapterNumberReset="continue"
     ChapterNumber="1"
     PageNumberFormat="decimal"
-    PageNumber="1">
+    PageNumber="1"
+    ReplaceMergeNode="false">
     <TocEntry
       Title="Connecting to AC Power"
-      Link="/Content/1A_Powering Up/b.Power Up.htm" />
+      Link="/Content/03_Powering Up/b.Power Up.htm" />
   </TocEntry>
   <TocEntry
     Title="Integris 2000"
-    Link="/Content/10_Integris Main Topics/3A_2000/a.Introduction.htm"
+    Link="/Content/20_2000/a.Introduction.htm"
     BreakType="chapter"
     PageType="right"
     StartSection="false"
@@ -79,133 +80,65 @@
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    ChapterNumberReset="continue">
+    ChapterNumberReset="continue"
+    ReplaceMergeNode="false">
     <TocEntry
       Title="Connecting Up"
-      Link="/Content/10_Integris Main Topics/3A_2000/b.Connecting_2k.htm" />
+      Link="/Content/20_2000/b.Connecting_2k.htm" />
     <TocEntry
       Title="Starting Integris 2000"
-      Link="/Content/10_Integris Main Topics/3A_2000/b2.Starting &amp; Closing Integris 2000.htm" />
+      Link="/Content/20_2000/b2.Starting &amp; Closing Integris 2000.htm"></TocEntry>
     <TocEntry
       Title="Installation Test Sequence"
-      Link="/Content/10_Integris Main Topics/3A_2000/b3.Installation Tests.htm" />
+      Link="/Content/20_2000/b3.Installation Tests.htm" />
     <TocEntry
       Title="Troubleshooting"
-      Link="/Content/10_Integris Main Topics/3A_2000/b4.Troubleshooting.htm" />
+      Link="/Content/20_2000/b4.Troubleshooting.htm" />
     <TocEntry
       Title="Setting the Link Rate"
-      Link="/Content/10_Integris Main Topics/3A_2000/c1.Set Link Rate.htm" />
+      Link="/Content/20_2000/c1.Set Link Rate.htm" />
     <TocEntry
       Title="Loading a Configuration File"
-      Link="/Content/10_Integris Main Topics/3A_2000/c2.Load Config File.htm" />
+      Link="/Content/20_2000/c2.Load Config File.htm" />
     <TocEntry
       Title="Viewing Physical Layer Information"
-      Link="/Content/10_Integris Main Topics/3A_2000/c3.PhysicalLayerInfo.htm" />
+      Link="/Content/20_2000/c3.PhysicalLayerInfo.htm" />
     <TocEntry
       Title="Resetting Integris to Default Settings"
-      Link="/Content/10_Integris Main Topics/3A_2000/c4.Reset.htm" />
+      Link="/Content/20_2000/c4.Reset.htm" />
     <TocEntry
       Title="Accessing Integris Help"
-      Link="/Content/10_Integris Main Topics/3A_2000/c5.Help.htm" />
+      Link="/Content/20_2000/c5.Help.htm" />
+    <TocEntry
+      Title="Checking the Software Version"
+      Link="/Content/20_2000/c6.About.htm" />
     <TocEntry
       Title="Testing a Remote Radio Head"
-      Link="/Content/10_Integris Main Topics/3A_2000/d.Tests-RRH.htm" />
+      Link="/Content/20_2000/d.Tests-RRH.htm" />
     <TocEntry
       Title="Testing a Cable"
-      Link="/Content/10_Integris Main Topics/3A_2000/e.Tests-Cable.htm" />
+      Link="/Content/20_2000/e.Tests-Cable.htm" />
     <TocEntry
       Title="Testing an SFP"
-      Link="/Content/10_Integris Main Topics/3A_2000/f.Tests-SFP.htm" />
+      Link="/Content/20_2000/f.Tests-SFP.htm" />
     <TocEntry
       Title="Monitor Mode"
-      Link="/Content/10_Integris Main Topics/3A_2000/h.Monitor.htm" />
+      Link="/Content/20_2000/h.Monitor.htm"></TocEntry>
     <TocEntry
       Title="Working with Test Reports"
-      Link="/Content/10_Integris Main Topics/3A_2000/i.Reports.htm" />
+      Link="/Content/20_2000/i.Reports.htm" />
     <TocEntry
-      Title="Appendices"
-      Link="/Content/10_Integris Main Topics/3A_2000/x.APPENDICES----.htm"
-      BreakType="pageLayout"
-      PageType="continue"
-      ChapterNumberReset="same"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"
-      PageNumberReset="continue"
-      ReplaceMergeNode="false"></TocEntry>
-    <TocEntry
-      Title="Integris 2000 Hot Keys"
-      Link="/Content/10_Integris Main Topics/3A_2000/x1.Hot Keys.htm" />
-    <TocEntry
-      Title="Configuration File Descriptions"
-      Link="/Content/10_Integris Main Topics/3A_2000/x3.Config File descriptions.htm" />
+      Title="Configuation File Descriptions"
+      Link="/Content/20_2000/x3.Config File descriptions.htm" />
   </TocEntry>
   <TocEntry
     Title="Integris 3000"
-    BreakType="chapter"
-    PageType="right"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    ChapterNumberReset="continue">
+    Link="/Content/30_3000/4.Integris_3000.htm">
     <TocEntry
-      Title="The Menu Selector" />
+      Title="Connecting to the RAN"
+      Link="/Content/30_3000/a1.Connecting 3k.htm" />
     <TocEntry
-      Title="Cabling for RF extraction" />
-    <TocEntry
-      Title="Starting Integris 3000" />
-    <TocEntry
-      Title="The Integris 3000 Display" />
-    <TocEntry
-      Title="Quick Setup for Integris 3000" />
-    <TocEntry
-      Title="Setting the Link Rate" />
-    <TocEntry
-      Title="Setting the AxC#" />
-    <TocEntry
-      Title="Integris System Status Pane" />
-    <TocEntry
-      Title="Selecting the Graph Type" />
-    <TocEntry
-      Title="Setting up the Power Spectrum" />
-    <TocEntry
-      Title="Setting Spectrum Parameters" />
-    <TocEntry
-      Title="Setting Waterfall Parameters" />
-    <TocEntry
-      Title="Using Crosshairs" />
-    <TocEntry
-      Title="Using Markers" />
-    <TocEntry
-      Title="The Marker Table" />
-    <TocEntry
-      Title="Screen Snapshots" />
-    <TocEntry
-      Title="Recording a Spectrum" />
-    <TocEntry
-      Title="System Reset" />
-    <TocEntry
-      Title="Exporting a Debug File" />
-    <TocEntry
-      Title="The System Menu" />
-    <TocEntry
-      Title="The View Menu" />
-    <TocEntry
-      Title="The CPRI Menu" />
-    <TocEntry
-      Title="The Graph Menu" />
-    <TocEntry
-      Title="The Amplitude Menu"></TocEntry>
-    <TocEntry
-      Title="The Frequency Menu" />
-    <TocEntry
-      Title="The Markers Menu" />
-    <TocEntry
-      Title="The Traces Menu" />
-    <TocEntry
-      Title="The Help Menu" />
+      Title="Starting Integris 3000"
+      Link="/Content/30_3000/a2.Starting Integris 3000.htm" />
   </TocEntry>
 </CatapultToc>

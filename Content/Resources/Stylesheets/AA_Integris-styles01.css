@@ -727,6 +727,8 @@ p.CautionStyle01
 		font-size: 2.5em;
 		line-height: 2.50em;
 		page-break-before: always;
+		font-weight: bold;
+		font-family: 'Century Gothic';
 	}
 
 	td.NOTE
@@ -749,12 +751,13 @@ p.CautionStyle01
 	h1.AA_Chpt_Heading1
 	{
 		background-color: #000080;
-		font-size: 2.5em;
-		line-height: 2.7em;
 		font-style: italic;
 		color: #ffdead;
-		font-weight: bold;
 		padding-left: 10px;
+		font-size: 2.80em;
+		border-radius: 5px;
+		font-weight: bolder;
+		font-family: 'Century Gothic';
 	}
 
 	h1.AA_h1_Appendix
@@ -773,8 +776,10 @@ p.CautionStyle01
 	h2.AA_Online_H2
 	{
 		background-color: #000080;
-		font-family: 'Century Gothic';
 		color: #ffdead;
+		font-family: 'Century Gothic';
+		font-weight: 800;
+		font-size: 1.60em;
 	}
 
 	table
@@ -941,7 +946,6 @@ h1.AA_Chpt_Heading1
 {
 	background-color: #000080;
 	color: #ffdead;
-	font-size: 1.50em;
 	font-style: italic;
 	border-bottom-right-radius: 10px;
 	border-bottom-left-radius: 10px;
@@ -955,6 +959,8 @@ h1.AA_Chpt_Heading1
 	margin: 0;
 	line-height: 2em;
 	padding-left: 10px;
+	font-weight: bold;
+	font-size: 1.80em;
 }
 
 p.ForcePageBreak
