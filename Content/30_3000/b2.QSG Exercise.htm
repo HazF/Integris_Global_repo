@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="822" MadCap:lastWidth="624">
+    <head>
+        <link href="../Resources/Table Stylesheets/InfoBoxStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Resources/Stylesheets/HelpStylesheet_AA.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h2 class="AA_h2_ChandPara" MadCap:conditions="Default.Print" MadCap:autonum="1.1. ">Quick Setup for Integris 3000</h2>
+        <h2 class="AA_Online_H2" MadCap:conditions="Default.Screen">Quick Setup for Integris 3000</h2>
+        <p>This procedure describes a simple test sequence using a live source and the <i>Classic</i> menus:</p>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col />
+            <tbody>
+                <tr>
+                    <td class="NOTE">
+                        <p><b>Note:</b> The Integris 3000 can be configured to use either the Classic Integris menu or a 'Modern' menu system. You can change between the two types using System Preferences. This is located at:</p>
+                        <ul>
+                            <li><b>System &gt; Prefs</b> using the Classic menu system </li>
+                            <li><b>System &gt; Preferences</b> on the modern  menu system </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <ol>
+            <li>
+                Review the Integris Safety and Compliance document included with you system for unpacking and starting the system. </li>
+            <li>
+                <p>Follow the setup sequence to connect the Integris 3000 into the link to be tested.</p>
+                <p MadCap:conditions="Default.Print">
+                    <MadCap:conditionalText>(<MadCap:xref href="a1.Connecting 3k.htm" class="IndexPageNumber">See "Cabling for  RF extraction", page 1
+				</MadCap:xref>)</MadCap:conditionalText>
+                </p>
+                <p MadCap:conditions="Default.Screen">
+                    <MadCap:conditionalText>(See: <MadCap:xref href="a1.Connecting 3k.htm">Cabling for  RF extraction</MadCap:xref>)
+				</MadCap:conditionalText>
+                </p>
+            </li>
+            <li>
+                <p>	If the applicationhas not started automatically, double-click on the Integris 3000 icon on the Windows Desktop to start the
+				 Integris 3000 application. After a short period the Integris 3000 splash screen is displayed, followed by the Integris
+				 3000 GUI.</p>
+            </li>
+            <li>
+                <p>Select the <b>CPRI</b> menu from the menu selector at the bottom of the screen, then click the <b>Link Rate</b> button and
+				either select the correct link rate or <b>AUTO</b>. </p>
+                <p>
+                    <table style="width: 100%;margin-left: auto;margin-right: auto; vertical-align: top;">
+                        <col />
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <p>When the correct link rate is set, the <i>Link</i> icon at the top of the <i>Status Pane</i> shows a green <b style="color: #006400;">Active</b> <MadCap:xref href="#linkstat" class="ListOfPageNumber">(See  Fig 1.1 )</MadCap:xref>.
+								
+								</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">
+                                    <img src="../Resources/Images/3000/V4/Link-Active.jpg" style="height: auto;vertical-align: top;width: 80px;margin-left: 0px;" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p class="FigNum01" MadCap:autonum=" Fig 1.1 "><a name="linkstat"></a>
+							The Link Status icon</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </p>
+            </li>
+            <li>
+                <p>Do one of the following: </p>
+                <ol style="list-style-type: lower-alpha;">
+                    <li>
+                        <p>On the <i>Source</i> menu, select <b>Mapping</b> and select the desired configuration file  for the system under test.
+</p>
+                        <p>Or:</p>
+                    </li>
+                    <li>
+                        <p>click the <b>Mapping</b>
+							 button at the top center of the GUi and select the correct configuration file for the system under test.
+</p>
+                        <p>Or:</p>
+                    </li>
+                    <li>click on the <b>Auto Detect</b> icon at the top center of the GUI.
+				 If a configuration file is available to dispay a valid graph, a thumbnail showing the available
+				 graphs will appear allowing you to select the appropriate display.<br /><table style="width: 100%;margin-left: auto;margin-right: auto; vertical-align: top;"><col style="width: 300px;" /><col /><tbody><tr><td style="text-align: center;"><img src="../Resources/Images/3000/V4/Auto-detect-button.jpg" style="height: auto;vertical-align: top;margin-left: 0px;width: 200px;" /><img src="../Resources/Images/3000/V4/Auto-detect_Analyzing.jpg" style="height: auto;vertical-align: top;margin-left: 0px;width: 200px;" /></td><td style="text-align: center;"><img src="../Resources/Images/i3k-Auto-Detect02.jpg" style="height: auto;vertical-align: top;width: 80px;margin-left: 0px;" /></td></tr><tr><td><p class="FigNum01" MadCap:autonum=" Fig 1.2 "><i>Auto Detect</i> button</p></td><td><p class="FigNum01" MadCap:autonum=" Fig 1.3 ">Thumbnail graphic</p></td></tr></tbody></table><table style="width: 100%;margin-left: 0;margin-right: auto;                  mc-table-style:          url('../Resources/Table Stylesheets/InfoBoxStyle01.css');" class="TableStyle-InfoBoxStyle01" cellspacing="0"><col class="TableStyle-InfoBoxStyle01-Column-Column1" /><tbody><tr class="TableStyle-InfoBoxStyle01-Body-Body1"><td class="TableStyle-InfoBoxStyle01-BodyA-Column1-Body1"><p><b>Information:</b>
+			 Integris 3000 configuration files contain information on frequency, bandwidth and other information required
+			 to decode the spectrum from the CPRI stream.</p></td></tr></tbody></table></li>
+                </ol>
+            </li>
+            <li>On the <i>System</i> menu, click the <b>Source</b> button and select <b>Live</b>.</li>
+            <li>On the <i>CPRI</i> menu, click the <b>Radio</b> button and select the desired AxC container.
+      
+                <p style="text-align: center;"><img src="../Resources/Images/3000/CPRI_Menu_Modern01.jpg" style="height: auto;width: 180px;" /></p></li>
+            <li>
+                On the <i>Graph</i> menu, click the <b>Type</b> button and select the desired graph type.</li>
+            <li>
+                <p>On the <i>Amplitude</i> menu, click on <b>Full Scale</b> button to center the spectrum. Use the <b>Ref Level</b> and <b>Scale</b> buttons and use the slider to manually fine tune the spectrum.</p>
+                <table style="width: 100%;margin-left: 0;margin-right: auto;">
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center;">
+                                <img src="../Resources/Images/3000/Amplitude_Menu_Classic01.png" style="width: auto;height: 200px;" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p class="FigNum01" MadCap:autonum=" Fig 1.2 ">The Integris amplitude settings menu
+</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </li>
+            <li>On the <i>Freq</i> menu, click on the <b>Full Span</b>, then <b>Center</b> buttons to locate the spectrum on the screen. 
+			Click the <b>Span</b> button to manually set the position.
+                <table style="width: 100%;margin-left: 0;margin-right: auto;"><col /><tbody><tr><td style="text-align: center;"><img src="../Resources/Images/3000/Frequency Menu_Classic01.png" style="width: auto;height: 200px;" /></td></tr><tr><td><p class="FigNum01" MadCap:autonum=" Fig 1.3 ">The Integris frequency settings menu
+</p></td></tr></tbody></table><p>Now that you have established the graph on the screen, we will set a marker to show values of the highest amplitude peak on the graph.
+				</p></li>
+            <li>Go to the <i>Markers</i> menu and click on the <b>Marker</b> button.			Select one of the three available markers.</li>
+            <li>On the <i>Marker</i> menu, click on the <b>Active</b> button. The legend will change to <i>ON</i></li>
+            <li>On the <i>Marker</i> menu, click on the <b>Goto Peak</b> button. The Marker pointer will automatically seek the greatest amplitude point on the display.
+			 You can enable Crosshairs on the Graph menu to read frequency and amplitude values direct from the screen.</li>
+        </ol>
+        <p style="text-align: center;"> <img src="../Resources/Images/3000/Crosshairs.jpg" style="width: auto;height: 350px;" /></p>
+        <p class="FigNum01" MadCap:autonum=" Fig 1.4 ">Measuring peak values using a marker &amp; crosshairs</p>
+    </body>
+</html>
