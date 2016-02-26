@@ -222,6 +222,8 @@ p.ManualVersionNumber
 		font-size: 13pt;
 		font-weight: bold;
 		font-family: 'Century Gothic';
+		padding-top: 15px;
+		padding-bottom: 15px;
 	}
 
 	h4
@@ -693,8 +695,6 @@ p.CautionStyle01
 {
 	p
 	{
-		background-image: url('../Images/Caution_Sign01.jpg');
-		background-repeat: no-repeat;
 		font-size: 11pt;
 	}
 
@@ -1038,5 +1038,10 @@ h1.AA_h1_Screen
 	padding-right: 17px;
 	padding-top: 10px;
 	width: 100%;
+}
+
+MadCap|xref.Plain_FigRef01
+{
+	mc-format: '{paranumonly}';
 }
 

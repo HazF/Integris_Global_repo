@@ -74,44 +74,4 @@
       SectionNumberReset="continue"
       VolumeNumberReset="same"></TocEntry>
   </TocEntry>
-  <TocEntry
-    Title="Unpacking &amp; Connecting the System"
-    Link="/Content/01_Introduction Topics/h.Unpacking &amp; Setting Up.htm"
-    BreakType="chapter"
-    PageType="right"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    ChapterNumberReset="continue">
-    <TocEntry
-      Title="Connecting to AC Power"
-      Link="/Content/01_Introduction Topics/h2.Setting Up.htm"
-      ChapterNumberReset="same"
-      StartSection="false"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same" />
-  </TocEntry>
-  <TocEntry
-    Title="Operating the Laptop PC"
-    Link="/Content/01_Introduction Topics/i.Operating.htm"
-    BreakType="chapter"
-    PageType="right"
-    StartSection="false"
-    PageNumberReset="continue"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    ChapterNumberReset="continue"></TocEntry>
-  <TocEntry
-    Title="Troubleshooting"
-    Link="/Content/01_Introduction Topics/x.App1-Troubleshooting.htm"
-    BreakType="chapter"
-    PageType="right"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    ChapterNumberReset="continue" />
 </CatapultToc>

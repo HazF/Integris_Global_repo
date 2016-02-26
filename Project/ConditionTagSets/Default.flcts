@@ -8,4 +8,8 @@
     Comment=""
     Name="Print"
     BackgroundColor="#f60606" />
+  <ConditionTag
+    BackgroundColor="#fbdd24"
+    Name="QSG"
+    Comment="" />
 </CatapultConditionTagSet>

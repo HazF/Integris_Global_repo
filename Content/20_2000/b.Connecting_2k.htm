@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="861" MadCap:lastWidth="624">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="750" MadCap:lastWidth="624">
     <head>
-        <link href="../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" />
-        <link href="../../Resources/Table Stylesheets/NoteBoxStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" />
-        <link href="../../Resources/Table Stylesheets/InfoBoxStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Connecting Up</title>
+        <link href="../Resources/Table Stylesheets/InfoBoxStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Resources/Table Stylesheets/NoteBoxStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Connecting Up</title>
     </head>
     <body>
         <h2 class="AA_h2_ChandPara" MadCap:conditions="Default.Print" MadCap:autonum="1.1. ">Connecting to the RAN</h2>
         <h2 class="AA_Online_H2" MadCap:conditions="Default.Screen">Connecting to the RAN</h2>
         <p><i>Integris 2000</i> is designed to exercise the radio head and its associated cabling and connectors, so must be connected in place of a BBU.</p>
-        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/NoteBoxStyle01.css');" class="TableStyle-NoteBoxStyle01" cellspacing="0">
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../Resources/Table Stylesheets/NoteBoxStyle01.css');" class="TableStyle-NoteBoxStyle01" cellspacing="0">
             <col class="TableStyle-NoteBoxStyle01-Column-Column1" />
             <tbody>
                 <tr class="TableStyle-NoteBoxStyle01-Body-Body1">
@@ -20,7 +20,7 @@
             </tbody>
         </table>
         <p>&#160;</p>
-        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/InfoBoxStyle01.css');" class="TableStyle-InfoBoxStyle01" cellspacing="0">
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../Resources/Table Stylesheets/InfoBoxStyle01.css');" class="TableStyle-InfoBoxStyle01" cellspacing="0">
             <col class="TableStyle-InfoBoxStyle01-Column-Column1" />
             <tbody>
                 <tr class="TableStyle-InfoBoxStyle01-Body-Body1">
@@ -43,21 +43,23 @@
                 </tr>
                 <tr>
                     <td>
-                        <p class="FigNum01" MadCap:autonum=" Fig 1.1 ">Connecting <i>Integris 2000</i> to an RRH</p>
+                        <p class="FigNum01" MadCap:autonum=" Fig 1.1 "><a name="conn"></a>Connecting <i>Integris 2000</i> to an RRH</p>
                     </td>
                 </tr>
             </tbody>
         </table>
-        <p><b>Radio Head Testing &amp;&#160;Monitoring</b>: To test or monitor a radio head installation connect the cable assembly to Integris test port 1. </p>
+        <p><b>Radio Head Testing &amp;&#160;Monitoring</b>: To test or monitor a radio head installation connect Integris in place of the BBU <MadCap:xref href="#conn" class="ListOfPageNumber">(See  Fig 1.1 )</MadCap:xref>. Plug one end of the cable into the RRH and the other end to Integris test port 1. </p>
         <ol>
-            <li>Remove cable connecting the RRH to the BBU, by disconnecting it from the SFP in the BBU</li>
-            <li>Remove the SFP from the BBU port where the cable to the RRH was previously connected</li>
+            <li>Locate the cable connecting the RRH to the BBU, then disconnect it from the SFP in the BBU</li>
+            <li>Remove the SFP from the BBU port where the cable to the RRH was previously connected. This will ensure the correct SFP type is used for testing.</li>
             <li>Place this SFP in port 1 of the Integris System</li>
-            <li>Connect the cable from the RRH to the SFP in port 1 of the Integris System
-					<MadCap:conditionalText MadCap:conditions="Default.Print"><MadCap:xref href="#port1" class="ListOfPageNumber">
-			(See  Fig 1.2 </MadCap:xref></MadCap:conditionalText><MadCap:xref href="#port1" class="ListOfPageNumber">)</MadCap:xref><MadCap:conditionalText MadCap:conditions="Default.Screen"><MadCap:conditionalText>(See <MadCap:xref href="#port1">Integris 2000 Test Port 1     </MadCap:xref>)</MadCap:conditionalText></MadCap:conditionalText>.</li>
+            <li>
+                <p>Connect the cable from the RRH to the SFP in port 1 of the Integris System. 
+                
+                    <MadCap:xref href="#port1" class="ListOfPageNumber"><MadCap:xref href="#port1" class="ListOfPageNumber">(See  Fig 1.2 )</MadCap:xref></MadCap:xref><![CDATA[                ]]></p>
+            </li>
         </ol>
-        <p>Run the <b>Radio</b> test sequence.</p>
+        <p>&#160;</p>
         <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css');" class="TableStyle-Image_&amp;_LabelStyle01" cellspacing="0">
             <col class="TableStyle-Image_&amp;_LabelStyle01-Column-Column1" />
             <tbody>
@@ -74,10 +76,13 @@
                 </tr>
             </tbody>
         </table>
-        <p><b>Cable Testing</b>: Connect one end of the duplex cable to Integris test port 1 and fit a loopback to the other end of the cable. 
-			Run the <b>Cable</b> test sequence.<MadCap:conditionalText MadCap:conditions="Default.Print"><![CDATA[ 
-		
-		]]></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.Screen">)</MadCap:conditionalText></p>
+        <p><b>Cable Testing</b>: Connect one end of the duplex cable to Integris test port 1 and fit a loopback to the other end of the cable 
+			<MadCap:xref href="#Lbck" class="ListOfPageNumber">(See  Fig 1.3 )</MadCap:xref>.</p>
+        <p MadCap:conditions="Default.Print">
+            <MadCap:xref href="b4.Troubleshooting.htm" class="IndexPageNumber">See "Troubleshooting a RAN Installation", page 1</MadCap:xref>
+        </p>
+        <p MadCap:conditions="Default.Screen">See 
+            <MadCap:xref href="b4.Troubleshooting.htm">Troubleshooting a RAN Installation</MadCap:xref></p>
         <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css');" class="TableStyle-Image_&amp;_LabelStyle01" cellspacing="0">
             <col class="TableStyle-Image_&amp;_LabelStyle01-Column-Column1" />
             <tbody>
@@ -88,14 +93,17 @@
                 </tr>
                 <tr class="TableStyle-Image_&amp;_LabelStyle01-Body-Body1">
                     <td class="TableStyle-Image_&amp;_LabelStyle01-BodyA-Column1-Body1">
-                        <p class="FigNum01" MadCap:autonum=" Fig 1.3 ">Loopback Connection</p>
+                        <p class="FigNum01" MadCap:autonum=" Fig 1.3 "><a name="Lbck"></a>Loopback Connection</p>
                     </td>
                 </tr>
             </tbody>
         </table>
-        <p><b>SFP&#160;Testing</b>: Remove the SFP&#160;that is fitted to the Integris test port 1  and replace it with the SFP to be tested. Insert a loopback cable into the SFP, then run the <i style="font-weight: bold; font-style: normal;">SFP</i>&#160;test sequence. e.<MadCap:conditionalText MadCap:conditions="Default.Print"><![CDATA[ 
-		
-		]]></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.Screen">)</MadCap:conditionalText></p>
+        <p><b>SFP&#160;Testing</b>: Remove the SFP&#160;that is fitted to the Integris test port 1  and replace it with the SFP to be tested <MadCap:xref href="#sfp" class="ListOfPageNumber">(See  Fig 1.4 )</MadCap:xref>. Insert a cable into the SFP and place a loopback at the far end <MadCap:xref href="#Lbck" class="ListOfPageNumber">(See  Fig 1.3 )</MadCap:xref>, then run the <i style="font-weight: bold; font-style: normal;">SFP</i>&#160;test sequence.</p>
+        <p MadCap:conditions="Default.Print">
+            <MadCap:xref href="b4.Troubleshooting.htm" class="IndexPageNumber">See "Troubleshooting a RAN Installation", page 1</MadCap:xref>
+        </p>
+        <p MadCap:conditions="Default.Screen">See 
+            <MadCap:xref href="b4.Troubleshooting.htm">Troubleshooting a RAN Installation</MadCap:xref></p>
         <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css');" class="TableStyle-Image_&amp;_LabelStyle01" cellspacing="0">
             <col class="TableStyle-Image_&amp;_LabelStyle01-Column-Column1" />
             <tbody>
@@ -106,7 +114,7 @@
                 </tr>
                 <tr class="TableStyle-Image_&amp;_LabelStyle01-Body-Body1">
                     <td class="TableStyle-Image_&amp;_LabelStyle01-BodyA-Column1-Body1">
-                        <p class="FigNum01" MadCap:autonum=" Fig 1.4 ">Inserting an SFP for testing</p>
+                        <p class="FigNum01" MadCap:autonum=" Fig 1.4 "><a name="sfp"></a>Inserting an SFP for testing</p>
                     </td>
                 </tr>
             </tbody>

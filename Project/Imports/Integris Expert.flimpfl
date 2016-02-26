@@ -23,118 +23,122 @@
       Source="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Integris Expert.flprj"
       AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Integris Expert.flprj" />
   </Files>
-  <ExcludedFiles />
+  <ExcludedFiles>
+    <Url
+      Source="../ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/_INTEGRIS GLOBAL USER GUIDE/Project/ConditionTagSets/Default.flcts" />
+  </ExcludedFiles>
   <CollectedSourceFiles>
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch01 Front/.Chp01_Heading.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch01 Front/.Chp01_Heading.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch01 Front/.Chp01_Heading.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch01 Front/a.Online Revisions &amp; Legal.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch01 Front/a.Online Revisions &amp; Legal.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch01 Front/a.Online Revisions &amp; Legal.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch01 Front/a.PDF Revisions &amp; Legal.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch01 Front/a.PDF Revisions &amp; Legal.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch01 Front/a.PDF Revisions &amp; Legal.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch01 Front/e.Document_Conventions.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch01 Front/e.Document_Conventions.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch01 Front/e.Document_Conventions.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch01 Front/f.Tech Support &amp; Calibration.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch01 Front/f.Tech Support &amp; Calibration.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch01 Front/f.Tech Support &amp; Calibration.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch02 Using/.Ch02_Heading.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch02 Using/.Ch02_Heading.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch02 Using/.Ch02_Heading.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch02 Using/a1.Connecting.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch02 Using/a1.Connecting.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch02 Using/a1.Connecting.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch02 Using/a2.Starting.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch02 Using/a2.Starting.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch02 Using/a2.Starting.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch02 Using/b.Gui Tour.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch02 Using/b.Gui Tour.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch02 Using/b.Gui Tour.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch02 Using/c.Extracting Fast C&amp;M.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch02 Using/c.Extracting Fast C&amp;M.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch02 Using/c.Extracting Fast C&amp;M.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch02 Using/d.Extracting Slow C&amp;M.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch02 Using/d.Extracting Slow C&amp;M.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch02 Using/d.Extracting Slow C&amp;M.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch02 Using/e.Capturing Raw Data.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch02 Using/e.Capturing Raw Data.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch02 Using/e.Capturing Raw Data.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch02 Using/f.Viewing.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch02 Using/f.Viewing.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch02 Using/f.Viewing.htm" />
     <Url
       Source="../../../Integris Expert/Content/Integris Expert/Ch02 Using/h.Closing.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Integris Expert/Ch02 Using/h.Closing.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Integris Expert/Ch02 Using/h.Closing.htm" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Print_Only/EndPage.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Print_Only/EndPage.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Print_Only/EndPage.htm" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Print_Only/PrintIndex.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Print_Only/PrintIndex.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Print_Only/PrintIndex.htm" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Print_Only/TitlePage.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Print_Only/TitlePage.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Print_Only/TitlePage.htm" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Print_Only/TitlePage1.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Print_Only/TitlePage1.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Print_Only/TitlePage1.htm" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Print_Only/TOC.htm"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Print_Only/TOC.htm" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Print_Only/TOC.htm" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Stylesheets/AA_styles.css"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Stylesheets/AA_styles.css" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Stylesheets/AA_styles.css" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/C&amp;M Active.png"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/C&amp;M Active.png" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/C&amp;M Active.png" />
     <Url
       Source="../../../Integris Expert/Project/ConditionTagSets/Default.flcts"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Project/ConditionTagSets/Default.flcts" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Project/ConditionTagSets/Default.flcts" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/RL_Passive_Tap04.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/RL_Passive_Tap04.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/RL_Passive_Tap04.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/Integris-Expert-tap-connection01.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/Integris-Expert-tap-connection01.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/Integris-Expert-tap-connection01.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/Expert_Icon.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/Expert_Icon.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/Expert_Icon.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/Expert_GUI.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/Expert_GUI.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/Expert_GUI.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/Fast-Slow_C&amp;M.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/Fast-Slow_C&amp;M.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/Fast-Slow_C&amp;M.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/Wireshark_Fast-C&amp;M.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/Wireshark_Fast-C&amp;M.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/Wireshark_Fast-C&amp;M.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/Slow-Fast_C&amp;M.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/Slow-Fast_C&amp;M.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/Slow-Fast_C&amp;M.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/RawCapturing.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/RawCapturing.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/RawCapturing.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/Raw_CaptureByte.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/Raw_CaptureByte.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/Raw_CaptureByte.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/Raw_CaptureButton_Group.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/Raw_CaptureButton_Group.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/Raw_CaptureButton_Group.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/Raw_View-Button_Group.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/Raw_View-Button_Group.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/Raw_View-Button_Group.jpg" />
     <Url
       Source="../../../Integris Expert/Content/Resources/Images/Saved_IVF_File.jpg"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Content/Resources/Images/Saved_IVF_File.jpg" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Content/Resources/Images/Saved_IVF_File.jpg" />
     <Url
       Source="../../../Integris Expert/Project/VariableSets/AA_DOC_Vars.flvar"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Project/VariableSets/AA_DOC_Vars.flvar" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Project/VariableSets/AA_DOC_Vars.flvar" />
   </CollectedSourceFiles>
   <SkippedSourceFiles>
     <Url
       Source="../../../Integris Expert/Project/VariableSets/AA_DOC_Vars.flvar"
-      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/Integris Master Project/Integris Expert/Project/VariableSets/AA_DOC_Vars.flvar" />
+      AbsoluteSource="file:///C:/Users/Haz/Documents/_Madcap Projects/INTEGRIS GLOBAL PROJECT/Integris Expert/Project/VariableSets/AA_DOC_Vars.flvar" />
   </SkippedSourceFiles>
   <GeneratedFiles>
     <Url
@@ -142,46 +146,46 @@
       TimeStamp="01/01/0001 00:00:00" />
     <Url
       Source="../../Content/Integris Expert/Ch01 Front/a.Online Revisions &amp; Legal.htm"
-      TimeStamp="06/08/2015 13:20:20" />
+      TimeStamp="08/06/2015 13:20:20" />
     <Url
       Source="../../Content/Integris Expert/Ch01 Front/a.PDF Revisions &amp; Legal.htm"
-      TimeStamp="06/08/2015 13:29:46" />
+      TimeStamp="08/06/2015 13:29:46" />
     <Url
       Source="../../Content/Integris Expert/Ch01 Front/e.Document_Conventions.htm"
       TimeStamp="01/01/0001 00:00:00" />
     <Url
       Source="../../Content/Integris Expert/Ch01 Front/f.Tech Support &amp; Calibration.htm"
-      TimeStamp="10/08/2015 12:04:53" />
+      TimeStamp="08/10/2015 12:04:53" />
     <Url
       Source="../../Content/Integris Expert/Ch02 Using/.Ch02_Heading.htm"
-      TimeStamp="10/08/2015 14:24:41" />
+      TimeStamp="08/10/2015 14:24:41" />
     <Url
       Source="../../Content/Integris Expert/Ch02 Using/a1.Connecting.htm"
-      TimeStamp="10/08/2015 11:18:08" />
+      TimeStamp="08/10/2015 11:18:08" />
     <Url
       Source="../../Content/Integris Expert/Ch02 Using/a2.Starting.htm"
-      TimeStamp="10/08/2015 16:01:59" />
+      TimeStamp="08/10/2015 16:01:59" />
     <Url
       Source="../../Content/Integris Expert/Ch02 Using/b.Gui Tour.htm"
-      TimeStamp="10/08/2015 15:28:30" />
+      TimeStamp="08/10/2015 15:28:30" />
     <Url
       Source="../../Content/Integris Expert/Ch02 Using/c.Extracting Fast C&amp;M.htm"
-      TimeStamp="10/08/2015 14:29:40" />
+      TimeStamp="08/10/2015 14:29:40" />
     <Url
       Source="../../Content/Integris Expert/Ch02 Using/d.Extracting Slow C&amp;M.htm"
-      TimeStamp="10/08/2015 14:30:20" />
+      TimeStamp="08/10/2015 14:30:20" />
     <Url
       Source="../../Content/Integris Expert/Ch02 Using/e.Capturing Raw Data.htm"
-      TimeStamp="10/08/2015 15:28:30" />
+      TimeStamp="08/10/2015 15:28:30" />
     <Url
       Source="../../Content/Integris Expert/Ch02 Using/f.Viewing.htm"
-      TimeStamp="10/08/2015 14:34:27" />
+      TimeStamp="08/10/2015 14:34:27" />
     <Url
       Source="../../Content/Integris Expert/Ch02 Using/h.Closing.htm"
-      TimeStamp="10/08/2015 14:35:31" />
+      TimeStamp="08/10/2015 14:35:31" />
     <Url
       Source="../../Content/Resources/Print_Only/EndPage.htm"
-      TimeStamp="10/07/2015 16:38:30" />
+      TimeStamp="07/10/2015 16:38:30" />
     <Url
       Source="../../Content/Resources/Print_Only/PrintIndex.htm"
       TimeStamp="01/01/0001 00:00:00" />
@@ -190,22 +194,22 @@
       TimeStamp="01/01/0001 00:00:00" />
     <Url
       Source="../../Content/Resources/Print_Only/TitlePage1.htm"
-      TimeStamp="10/08/2015 14:45:57" />
+      TimeStamp="08/10/2015 14:45:57" />
     <Url
       Source="../../Content/Resources/Print_Only/TOC.htm"
       TimeStamp="01/01/0001 00:00:00" />
     <Url
       Source="../../Content/Resources/Stylesheets/AA_styles.css"
-      TimeStamp="06/08/2015 14:01:53" />
+      TimeStamp="08/06/2015 14:01:53" />
     <Url
       Source="../../Content/Resources/Images/C&amp;M Active.png"
-      TimeStamp="05/08/2015 01:43:48" />
+      TimeStamp="08/05/2015 01:43:48" />
     <Url
       Source="../ConditionTagSets/Default.flcts"
-      TimeStamp="06/03/2015 18:17:28" />
+      TimeStamp="03/06/2015 18:17:28" />
     <Url
       Source="../../Content/Resources/Images/RL_Passive_Tap04.jpg"
-      TimeStamp="10/08/2015 11:15:27" />
+      TimeStamp="08/10/2015 11:15:27" />
     <Url
       Source="../../Content/Resources/Images/Integris-Expert-tap-connection01.jpg"
       TimeStamp="08/08/2015 14:48:42" />
@@ -214,16 +218,16 @@
       TimeStamp="08/08/2015 12:40:30" />
     <Url
       Source="../../Content/Resources/Images/Expert_GUI.jpg"
-      TimeStamp="06/08/2015 15:17:53" />
+      TimeStamp="08/06/2015 15:17:53" />
     <Url
       Source="../../Content/Resources/Images/Fast-Slow_C&amp;M.jpg"
-      TimeStamp="09/08/2015 11:50:12" />
+      TimeStamp="08/09/2015 11:50:12" />
     <Url
       Source="../../Content/Resources/Images/Wireshark_Fast-C&amp;M.jpg"
       TimeStamp="08/08/2015 12:45:23" />
     <Url
       Source="../../Content/Resources/Images/Slow-Fast_C&amp;M.jpg"
-      TimeStamp="09/08/2015 11:49:43" />
+      TimeStamp="08/09/2015 11:49:43" />
     <Url
       Source="../../Content/Resources/Images/RawCapturing.jpg"
       TimeStamp="08/08/2015 12:41:58" />
@@ -232,15 +236,15 @@
       TimeStamp="08/08/2015 12:42:49" />
     <Url
       Source="../../Content/Resources/Images/Raw_CaptureButton_Group.jpg"
-      TimeStamp="10/08/2015 12:23:35" />
+      TimeStamp="08/10/2015 12:23:35" />
     <Url
       Source="../../Content/Resources/Images/Raw_View-Button_Group.jpg"
-      TimeStamp="10/08/2015 13:52:48" />
+      TimeStamp="08/10/2015 13:52:48" />
     <Url
       Source="../../Content/Resources/Images/Saved_IVF_File.jpg"
       TimeStamp="08/08/2015 12:44:04" />
     <Url
       Source="../VariableSets/AA_DOC_Vars.flvar"
-      TimeStamp="10/08/2015 15:46:14" />
+      TimeStamp="08/10/2015 15:46:14" />
   </GeneratedFiles>
 </CatapultProject>

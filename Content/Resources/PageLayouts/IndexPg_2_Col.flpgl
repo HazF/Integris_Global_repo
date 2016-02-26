@@ -23,8 +23,8 @@
                             <xhtml:col />
                             <xhtml:tbody>
                                 <xhtml:tr>
-                                    <xhtml:td><MadCap:variable xhtml:name="AA_DOC_Vars.ProductName" /> <MadCap:variable xhtml:name="AA_DOC_Vars.PDF_Title" /> V<MadCap:variable xhtml:name="AA_DOC_Vars.DocVersion#" /></xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="AA_DOC_Vars.DCN#" />.<MadCap:variable xhtml:name="AA_DOC_Vars.DocVersion#Full" /></xhtml:td>
+                                    <xhtml:td><MadCap:variable xhtml:name="AA_S&amp;C_Vars.ProductName" /> <MadCap:variable xhtml:name="AA_S&amp;C_Vars.PDF_Title" /> V<MadCap:variable xhtml:name="AA_S&amp;C_Vars.DocVersion#" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="AA_S&amp;C_Vars.DCN#" />.<MadCap:variable xhtml:name="AA_S&amp;C_Vars.DocVersion#Full" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -48,7 +48,7 @@
                             <xhtml:tbody>
                                 <xhtml:tr>
                                     <xhtml:td>&#160;</xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;">© <MadCap:variable xhtml:name="AA_DOC_Vars.CurrentYear" /> <MadCap:variable xhtml:name="AA_DOC_Vars.CompanyName" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">© <MadCap:variable xhtml:name="AA_S&amp;C_Vars.CurrentYear" /> <MadCap:variable xhtml:name="AA_S&amp;C_Vars.CompanyName" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -67,8 +67,8 @@
                             <xhtml:col />
                             <xhtml:tbody>
                                 <xhtml:tr>
-                                    <xhtml:td><MadCap:variable xhtml:name="AA_DOC_Vars.ProductName" /> <MadCap:variable xhtml:name="AA_DOC_Vars.PDF_Title" /> V<MadCap:variable xhtml:name="AA_DOC_Vars.DocVersion#" /></xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="AA_DOC_Vars.DCN#" />.<MadCap:variable xhtml:name="AA_DOC_Vars.DocVersion#Full" /></xhtml:td>
+                                    <xhtml:td><MadCap:variable xhtml:name="AA_S&amp;C_Vars.ProductName" /> <MadCap:variable xhtml:name="AA_S&amp;C_Vars.PDF_Title" /> V<MadCap:variable xhtml:name="AA_S&amp;C_Vars.DocVersion#" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="AA_S&amp;C_Vars.DCN#" />.<MadCap:variable xhtml:name="AA_S&amp;C_Vars.DocVersion#Full" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -92,7 +92,7 @@
                             <xhtml:tbody>
                                 <xhtml:tr>
                                     <xhtml:td>&#160;</xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;">Copyright © <MadCap:variable xhtml:name="AA_DOC_Vars.CurrentYear" /> <MadCap:variable xhtml:name="AA_DOC_Vars.CompanyName" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">Copyright © <MadCap:variable xhtml:name="AA_S&amp;C_Vars.CurrentYear" /> <MadCap:variable xhtml:name="AA_S&amp;C_Vars.CompanyName" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -111,8 +111,8 @@
                             <xhtml:col />
                             <xhtml:tbody>
                                 <xhtml:tr>
-                                    <xhtml:td><MadCap:variable xhtml:name="AA_DOC_Vars.ProductName" /> <MadCap:variable xhtml:name="AA_DOC_Vars.PDF_Title" /> V<MadCap:variable xhtml:name="AA_DOC_Vars.DocVersion#" /></xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="AA_DOC_Vars.DCN#" />.<MadCap:variable xhtml:name="AA_DOC_Vars.DocVersion#Full" /></xhtml:td>
+                                    <xhtml:td><MadCap:variable xhtml:name="AA_S&amp;C_Vars.ProductName" /> <MadCap:variable xhtml:name="AA_S&amp;C_Vars.PDF_Title" /> V<MadCap:variable xhtml:name="AA_S&amp;C_Vars.DocVersion#" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="AA_S&amp;C_Vars.DCN#" />.<MadCap:variable xhtml:name="AA_S&amp;C_Vars.DocVersion#Full" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -134,7 +134,7 @@
                             <xhtml:tbody>
                                 <xhtml:tr>
                                     <xhtml:td>&#160;</xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;">© <MadCap:variable xhtml:name="AA_DOC_Vars.CurrentYear" /> <MadCap:variable xhtml:name="AA_DOC_Vars.CompanyName" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">© <MadCap:variable xhtml:name="AA_S&amp;C_Vars.CurrentYear" /> <MadCap:variable xhtml:name="AA_S&amp;C_Vars.CompanyName" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -155,8 +155,8 @@
                             <xhtml:col />
                             <xhtml:tbody>
                                 <xhtml:tr>
-                                    <xhtml:td><MadCap:variable xhtml:name="AA_DOC_Vars.ProductName" /><MadCap:variable xhtml:name="AA_DOC_Vars.PDF_Title" /> V<MadCap:variable xhtml:name="AA_DOC_Vars.DocVersion#" /></xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="AA_DOC_Vars.DCN#" />.<MadCap:variable xhtml:name="AA_DOC_Vars.DocVersion#Full" /></xhtml:td>
+                                    <xhtml:td><MadCap:variable xhtml:name="AA_S&amp;C_Vars.ProductName" /><MadCap:variable xhtml:name="AA_S&amp;C_Vars.PDF_Title" /> V<MadCap:variable xhtml:name="AA_S&amp;C_Vars.DocVersion#" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="AA_S&amp;C_Vars.DCN#" />.<MadCap:variable xhtml:name="AA_S&amp;C_Vars.DocVersion#Full" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>
@@ -178,7 +178,7 @@
                             <xhtml:tbody>
                                 <xhtml:tr>
                                     <xhtml:td>&#160;</xhtml:td>
-                                    <xhtml:td xhtml:style="text-align: right;">© <MadCap:variable xhtml:name="AA_DOC_Vars.CurrentYear" /> <MadCap:variable xhtml:name="AA_DOC_Vars.CompanyName" /></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">© <MadCap:variable xhtml:name="AA_S&amp;C_Vars.CurrentYear" /> <MadCap:variable xhtml:name="AA_S&amp;C_Vars.CompanyName" /></xhtml:td>
                                 </xhtml:tr>
                             </xhtml:tbody>
                         </xhtml:table>

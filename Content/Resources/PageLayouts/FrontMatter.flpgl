@@ -102,7 +102,7 @@
                             <xhtml:col />
                             <xhtml:tbody>
                                 <xhtml:tr>
-                                    <xhtml:td><MadCap:variable xhtml:name="General.PDFGuideTitle" /> V<MadCap:variable xhtml:name="General.RL_DocVersion" /></xhtml:td>
+                                    <xhtml:td><MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.PDFGuideTitleLong" /> V<MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-UG-RL" /></xhtml:td>
                                     <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="AA_Integris-2k3k_Vars.DCN-UG-RL" />
                                     </xhtml:td>
                                 </xhtml:tr>

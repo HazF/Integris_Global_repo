@@ -46,6 +46,13 @@
     VolumeNumberReset="same"
     PageNumberFormat="lower-roman">
     <TocEntry
+      Title="Document Information"
+      Link="/Content/01_Introduction Topics/a4.Doc Info.htm"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue" />
+    <TocEntry
       Title="Document Conventions"
       Link="/Content/01_Introduction Topics/d.Document_Conventions.htm" />
     <TocEntry
@@ -133,13 +140,21 @@
   </TocEntry>
   <TocEntry
     Title="Integris 3000"
-    Link="/Content/30_3000/4.Integris_3000.htm">
+    Link="/Content/30_3000/4.Integris_3000.htm"
+    BreakType="chapter"
+    PageType="right"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
     <TocEntry
       Title="Connecting to the RAN"
       Link="/Content/30_3000/a1.Connecting 3k.htm" />
     <TocEntry
       Title="Starting Integris 3000"
-      Link="/Content/30_3000/a2.Starting Integris 3000.htm" />
+      Link="/Content/30_3000/b0.Starting &amp; Closing Integris 3000.htm" />
     <TocEntry
       Title="The Integris 3000 Display"
       Link="/Content/30_3000/b1.Integris_3000_Display.htm"></TocEntry>
@@ -178,6 +193,34 @@
       Link="/Content/30_3000/c5.Spectrum Values.htm" />
     <TocEntry
       Title="Waterfall Graph Setup"
-      Link="/Content/30_3000/c6.Waterfall Setup.htm" />
+      Link="/Content/30_3000/c6.Waterfall Setup.htm"></TocEntry>
+    <TocEntry
+      Title="Using Multiple Graphs"
+      Link="/Content/30_3000/c7.Multi-Screen.htm"></TocEntry>
+    <TocEntry
+      Title="Using Markers"
+      Link="/Content/30_3000/c8.Using Markers.htm" />
+    <TocEntry
+      Title="The Marker Table"
+      Link="/Content/30_3000/c9.Marker_Table.htm"></TocEntry>
+    <TocEntry
+      Title="Saving Display Settings"
+      Link="/Content/30_3000/c10.Display-Config-Files.htm" />
+    <TocEntry
+      Title="Screen Snapshot"
+      Link="/Content/30_3000/c11a.Snapshot.htm"></TocEntry>
+    <TocEntry
+      Title="Recording Graphs"
+      Link="/Content/30_3000/c11b.Recording.htm">
+      <TocEntry
+        Title="End"
+        Link="/Content/Print Only Topics/End_Page.htm"
+        BreakType="pageLayout"
+        PageType="right"
+        ChapterNumberReset="same"
+        StartSection="false"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same" />
+    </TocEntry>
   </TocEntry>
 </CatapultToc>

@@ -9,7 +9,7 @@
   MasterStylesheet="/Content/Resources/Stylesheets/AA_Integris-styles01.css"
   ConditionTagExpression="include[Default.Screen] exclude[Default.Print] "
   Medium="non-print"
-  Skin="/Project/Skins/Int_2000-CHM_Skin01.flskn"
+  Skin="/Project/Skins/Int_3000-CHM_Skin01.flskn"
   OutputFile="Integris 3000 Help"
   conditions="Default.Screen">
   <PrintedOutput

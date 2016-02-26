@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="809" MadCap:lastWidth="624">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="832" MadCap:lastWidth="624">
     <head>
         <link href="../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css" rel="stylesheet" MadCap:stylesheetType="table" />
         <link href="../Resources/Stylesheets/HelpStylesheet_AA.css" rel="stylesheet" type="text/css" />
@@ -32,12 +32,7 @@
             <li>Remove the SFP from the BBU port where the cable to the RRH was previously connected</li>
             <li>Place this SFP in port 1 of the Integris System</li>
             <li>
-                <p>Connect the cable from the RRH to the SFP in port 1 of the Integris System.</p>
-                <p MadCap:conditions="Default.Print">
-                    <MadCap:conditionalText MadCap:conditions="Default.Print">(See <MadCap:xref href="#port1" class="ListOfPageNumber">(See  Fig 1.2 )</MadCap:xref>)</MadCap:conditionalText>.</p>
-                <p MadCap:conditions="Default.Screen">
-                    <MadCap:conditionalText MadCap:conditions="Default.Screen">(See <MadCap:xref href="#port1">Integris 2000 Test Port 1
-</MadCap:xref>)</MadCap:conditionalText>.</p>
+                <p>Connect the cable from the RRH to the SFP in port 1 of the Integris System <MadCap:xref href="#port1" class="ListOfPageNumber">(See  Fig 1.2 )</MadCap:xref>.</p>
             </li>
             <li>Power on the Radio Head.</li>
         </ol>
@@ -58,13 +53,12 @@
             </tbody>
         </table>
         <p>Before testing you must set Integris 2000 to the correct link rate for the test. </p>
-        <h3>To set the link rate:</h3>
+        <h3>Setting the link rate:</h3>
         <ol>
-            <li>Click on the <b>Rate</b> icon in the <i>Status</i> panel at top left of the main window. A drop down menu will appear. The currently selected rate is highlighted</li>
+            <li>Click on the <b>Rate</b> icon in the <i>Status Panel</i> at the top left of the main window. A drop down menu will appear. The currently selected rate is highlighted</li>
             <li>Click on the required link rate.</li>
         </ol>
-        <p>The text on the icon will display the words "<span style="color: #2e8b57; font-weight: bold;">
-		Active Link</span>" in green if the SFP recognizes an active CPRI&#160;link, or a red error message if a
+        <p>The text on the icon will display the words "<span style="font-weight: bold; color: #228b22;">Active Link</span>" in green if the SFP recognizes an active CPRI&#160;link, or a red error message if a
 			 problem exists.</p>
         <p MadCap:conditions="Default.Print">
             <MadCap:conditionalText MadCap:conditions="Default.Print">
@@ -80,7 +74,7 @@
         </p>
         <p>Radio Head testing is accomplished by transmitting a test sequence that is matched to the equipment being tested. </p>
         <p>These tests are defined by a configuration file, which must be loaded before any testing can take place.</p>
-        <h3>To load a configuration file:</h3>
+        <h3>Loading a configuration file:</h3>
         <ol>
             <li>Click on the <b>TEST&#160;CONFIG</b> icon at top center of the main screen</li>
             <li>
@@ -98,7 +92,7 @@
             </li>
         </ol>
         <p>Report files contain the results of individual RRH, Cable and SFP tests. The first step in a test sequence therefore is to create a report file to contain them. The report file will contain one or more sets of results from the tests you run.</p>
-        <h3>To create a test report:</h3>
+        <h3>Creating a test report:</h3>
         <ol>
             <li>
                 <p>Select the <i>REPORT</i>&#160;menu and click <b>NEW</b>. A new blank report will be created with a default format file name and the current date.</p>
@@ -133,10 +127,10 @@
             </tbody>
         </table>
         <p>Now that the report has been created and details edited you can run the installation test sequence. </p>
-        <h3>To run an installation test sequence:</h3>
+        <h3>Running the Tests:</h3>
         <p>Now that the report has been created to contain the test results, we can now run the Installation test.</p>
         <ol>
-            <li>On the <i>TEST</i>&#160;menu, click <b>SELECT&#160;TEST</b>, then <b>RADIO</b>.</li>
+            <li>On the <i>Test</i>&#160;menu, click <b>Select&#160;Test</b>, then <b>Radio</b>.</li>
             <li>Start the test by  clicking on <b>Test &gt; Run</b> (or pressing <b>F5</b>)</li>
             <li>When the test has completed a yellow message box will open offering to save the results to the currently open report file. Click
 			on <b>OK</b></li>
@@ -149,7 +143,7 @@
 				 collapsed using the arrows to the left of the result name.
 			<table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/Table Stylesheets/Image&amp;LabelStyle01.css');" class="TableStyle-Image_&amp;_LabelStyle01" cellspacing="0"><col class="TableStyle-Image_&amp;_LabelStyle01-Column-Column1" /><tbody><tr class="TableStyle-Image_&amp;_LabelStyle01-Body-Body1"><td style="text-align: center;" class="TableStyle-Image_&amp;_LabelStyle01-BodyD-Column1-Body1"><img src="../Resources/Images/Test-Seq-Results.jpg" MadCap:mediastyle="@media print { height: auto;width: 300px; }" style="clear: both;vertical-align: text-top;mc-float: center;height: auto;width: 300px;margin-top: 10px;" /></td></tr><tr class="TableStyle-Image_&amp;_LabelStyle01-Body-Body1"><td class="TableStyle-Image_&amp;_LabelStyle01-BodyA-Column1-Body1"><p class="FigNum01" MadCap:autonum=" Fig 1.4 ">Report showing test results</p></td></tr></tbody></table></li>
         </ol>
-        <h3>To export the report file in Portable Document Format (PDF) </h3>
+        <h3>Exporting the report file in Portable Document Format (PDF) </h3>
         <ol>
             <li>
                 <p>Click on the <b>Report &gt; Export PDF</b>. An Explorer window will open allowing you to name and save the PDF file to a location of your choice. </p>
