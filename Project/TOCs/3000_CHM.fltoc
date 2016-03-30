@@ -7,7 +7,7 @@
     Link="/Content/01_Introduction Topics/a3.Help_Legal.htm">
     <TocEntry
       Title="Safety &amp; Compliance"
-      Link="/Content/01_Introduction Topics/b.Safety &amp; Compliance.htm" />
+      Link="/Content/01_Introduction Topics/x.Safety &amp; Compliance.htm" />
     <TocEntry
       Title="Technical Support"
       Link="/Content/01_Introduction Topics/e.Tech Support &amp; Warranty.htm" />
@@ -72,7 +72,7 @@
       Link="/Content/30_3000/c7.Multi-Screen.htm" />
     <TocEntry
       Title="Using Markers"
-      Link="/Content/30_3000/c8.Using Markers.htm" />
+      Link="/Content/30_3000/c8a.Using Markers.htm" />
     <TocEntry
       Title="The Marker Table"
       Link="/Content/30_3000/c9.Marker_Table.htm" />

@@ -5,7 +5,7 @@
     Name="PhoneNumber">+1 805-376-6048</Variable>
   <Variable
     Name="DCN-UG-RL"
-    Comment="DCN for User Guide">20003.02.08(U)</Variable>
+    Comment="DCN for User Guide">20003.02.09</Variable>
   <Variable
     Name="Support_Phone"
     Comment="AA Support#">+1 805-376-6048</Variable>
@@ -44,10 +44,10 @@
     Comment="">Integris Quick Start Guide</Variable>
   <Variable
     Name="DCN-UG-DocEdition"
-    OriginalName="VersionNumberDot">2.8(U)</Variable>
+    OriginalName="VersionNumberDot">2.9</Variable>
   <Variable
     Name="DCN-UG-ChangeDate"
-    Comment="">Feb 21st 2016</Variable>
+    Comment="">Feb 29th 2016</Variable>
   <Variable
     Name="PDFGuideTitleLong"
     Comment="">Integris User Guide</Variable>
@@ -76,7 +76,7 @@
     Comment="">Feb 26th 2016</Variable>
   <Variable
     Name="DCN-QSG"
-    Comment="DCN for Quick Start Guide">20000.01.08(U)</Variable>
+    Comment="DCN for Quick Start Guide">20000.01.08</Variable>
   <Variable
     Name="PDF_QSGTitle"
     Comment="">Quick Start Guide</Variable>
@@ -100,7 +100,7 @@
     Comment="">CN: Fig {chapnum}.{n+}</Variable>
   <Variable
     Name="DCN-S&amp;E-DocEdition"
-    Comment="">20011.00.01(U)</Variable>
+    Comment="">20011.00.01</Variable>
   <Variable
     Name="DCN-S&amp;E-ChangeDate"
     Comment="">Jan 1st 2016</Variable>

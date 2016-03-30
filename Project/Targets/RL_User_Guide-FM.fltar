@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Integris User Guide"
+  Type="FrameMaker"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/RL_User_Guide-FM.fltoc"
+  ConditionTagExpression="include[Default.Print] exclude[Default.QSG or Default.Screen] "
+  PatchHeadingLevels="true"
+  InjectEmptyPages="true"
+  OutputFile="Integris_UG-20003"
+  MasterStylesheet="/Content/Resources/Stylesheets/AA_Integris-styles01.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+  conditions="Default.Print">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Title="Integris User Guide"
+    Author="Haz Fairweather"
+    Subject="Integris User Guide"
+    Keywords="Integris, UG, User Guide, Integris 2000, Integris 3000" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="75"
+    PageLayout="OneColumn"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    Tagged="false" />
+</CatapultTarget>

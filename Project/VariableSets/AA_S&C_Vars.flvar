@@ -17,11 +17,11 @@
   <Variable
     Name="DocVersion#"
     Comment="Version number of this document"
-    Definition="Some text">0.2</Variable>
+    Definition="Some text">0.3</Variable>
   <Variable
     Name="CurrentYear"
     Comment=""
-    Definition="Some text">2015</Variable>
+    Definition="Some text">2016</Variable>
   <Variable
     Name="SWVersion#"
     Definition="Some text"></Variable>
@@ -30,22 +30,22 @@
     Comment="">www.AbsoluteAnalysis.com/Contact/</Variable>
   <Variable
     Name="DocVersionPrevious#"
-    Comment="Previous version of this document">0.1</Variable>
+    Comment="Previous version of this document">0.2</Variable>
   <Variable
     Name="DocVersionUpdateReason"
-    Comment="Reason for update">Corrections following initial review.</Variable>
+    Comment="Reason for update">T&amp;C updates</Variable>
   <Variable
     Name="PDF_Title"
-    Comment="">User Guide</Variable>
+    Comment="">Safety &amp; Compliance</Variable>
   <Variable
     Name="DocVersionChangeDate"
-    Comment="">October 6th 2015</Variable>
+    Comment="">Feb 26th 2016</Variable>
   <Variable
     Name="DCN#"
     Comment="">20010</Variable>
   <Variable
     Name="DocVersion#Full"
-    Comment="Long version number of this document">00.02</Variable>
+    Comment="Long version number of this document">00.03</Variable>
   <Variable
     Name="ProductNameLong"
     Comment="">Safety &amp; Compliance</Variable>

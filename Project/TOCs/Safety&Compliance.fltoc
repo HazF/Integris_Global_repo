@@ -5,12 +5,16 @@
   <TocEntry
     Title="TitlePage"
     Link="/Content/Print Only Topics/TitlePage.htm"
-    BreakType="pageLayout"
-    PageType="right"
+    BreakType="chapter"
     StartSection="false"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
-    ChapterNumberReset="continue"></TocEntry>
+    ChapterNumberReset="reset"
+    PageNumberReset="reset"
+    ChapterNumber="1"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/S&amp;C_Frontmatter.flpgl"
+    PageType="firstright"></TocEntry>
   <TocEntry
     Title="TOC"
     Link="/Content/Print Only Topics/TOC.htm"
@@ -19,15 +23,16 @@
     PageType="right"
     StartSection="false"
     SectionNumberReset="continue"
-    VolumeNumberReset="same" />
+    VolumeNumberReset="same"
+    PageLayout="/Content/Resources/PageLayouts/S&amp;C_Frontmatter.flpgl" />
   <TocEntry
     Title="Notices"
-    Link="/Content/01_Introduction Topics/a.Legal.htm"
+    Link="/Content/02_Safety &amp; Compliance/a.S&amp;C_Legal.htm"
     BreakType="chapter"
     PageType="right"
     AutoEndOnLeftPage="enabled"
     StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageLayout="/Content/Resources/PageLayouts/S&amp;C_Chapters.flpgl"
     PageNumberReset="reset"
     PageNumber="1"
     PageNumberFormat="decimal"
@@ -36,42 +41,65 @@
     SectionNumberReset="continue"
     VolumeNumberReset="same">
     <TocEntry
-      Title="Regulatory Information"
-      Link="/Content/01_Introduction Topics/b.Regulatory.htm"
-      BreakType="chapter"
-      PageType="right"
-      PageNumberFormat="decimal"
-      StartSection="false"
-      PageNumberReset="continue"
-      ChapterNumberReset="same"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same" />
+      Title="Document Information"
+      Link="/Content/01_Introduction Topics/a4.Doc Info.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Regulatory Information"
+    Link="/Content/02_Safety &amp; Compliance/b.Regulatory.htm"
+    BreakType="chapter"
+    PageType="right"
+    PageNumberFormat="decimal"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    PageLayout="/Content/Resources/PageLayouts/S&amp;C_Chapters.flpgl"></TocEntry>
+  <TocEntry
+    Title="Environmental Considerations"
+    Link="/Content/02_Safety &amp; Compliance/d.Environmental.htm"
+    ChapterNumberReset="continue"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    BreakType="chapter"
+    PageType="right"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/S&amp;C_Chapters.flpgl"
+    ReplaceMergeNode="false"></TocEntry>
+  <TocEntry
+    Title="Safety &amp; Compliance"
+    Link="/Content/02_Safety &amp; Compliance/c.Safety-Compliance.htm"
+    ChapterNumberReset="continue"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    BreakType="chapter"
+    PageType="right"
+    PageNumberReset="continue"
+    ReplaceMergeNode="false"
+    PageLayout="/Content/Resources/PageLayouts/S&amp;C_Chapters.flpgl"></TocEntry>
+  <TocEntry
+    Title="Support"
+    Link="/Content/02_Safety &amp; Compliance/f.Support Info.htm"
+    BreakType="chapter"
+    PageType="right"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/S&amp;C_Chapters.flpgl"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    ChapterNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    PageNumberReset="continue">
     <TocEntry
-      Title="Safety &amp; Compliance"
-      Link="/Content/01_Introduction Topics/c.Safety &amp; Compliance.htm"
-      ChapterNumberReset="same"
-      StartSection="false"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"></TocEntry>
-    <TocEntry
-      Title="Environmental Considerations"
-      Link="/Content/01_Introduction Topics/d.Environmental.htm"
-      ChapterNumberReset="same"
-      StartSection="false"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same" />
-    <TocEntry
-      Title="Technical Support &amp; Calibration"
-      Link="/Content/01_Introduction Topics/f.Tech Support &amp; Calibration.htm"
-      BreakType="none"
-      PageType="continue"
-      AutoEndOnLeftPage="disabled"
-      StartSection="false"
-      PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-      ComputeToc="false"
-      ReplaceMergeNode="false"
-      ChapterNumberReset="same"
-      SectionNumberReset="continue"
-      VolumeNumberReset="same"></TocEntry>
+      Title="Support Warranty &amp; Calibration"
+      Link="/Content/02_Safety &amp; Compliance/h.TechSup Warranty &amp; Calibration.htm">
+      <TocEntry
+        Title="End Page"
+        Link="/Content/Print Only Topics/End_Page.htm" />
+    </TocEntry>
   </TocEntry>
 </CatapultToc>
